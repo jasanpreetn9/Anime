@@ -1,0 +1,3435 @@
+{
+  "anime": [
+    {
+      "title": "The Daily Life of the Immortal King",
+      "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/AcN5WbEjfal5wKvf5B6VpWoISAE.jpg",
+      "overview": "As a cultivation genius who has achieved a new realm every two years since he was a year old, Wang Ling is a near-invincible existence with prowess far beyond his control. But now that he’s sixteen, he faces his greatest battle yet – Senior High School. With one challenge after another popping up, his plans for a low-key high school life seem further and further away…",
+      "year": 2020,
+      "seasons": 2,
+      "idTmdb": 98123,
+      "id": 2
+    },
+    {
+      "title": "Jujutsu Kaisen",
+      "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g1rK2nRXSidcMwNliWDIroWWGTn.jpg",
+      "overview": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day, to save a classmate who has been attacked by curses, he eats the finger of Ryomen Sukuna, taking the curse into his own soul. From then on, he shares one body with Ryomen Sukuna. Guided by the most powerful of sorcerers, Satoru Gojo, Itadori is admitted to Tokyo Jujutsu High School, an organization that fights the curses... and thus begins the heroic tale of a boy who became a curse to exorcise a curse, a life from which he could never turn back.",
+      "year": 2020,
+      "seasons": 1,
+      "idTmdb": 95479,
+      "id": 3
+    },
+    {
+      "title": "Demon Slayer: Kimetsu no Yaiba",
+      "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wrCVHdkBlBWdJUZPvnJWcBRuhSY.jpg",
+      "overview": "It is the Taisho Period in Japan. Tanjiro, a kindhearted boy who sells charcoal for a living, finds his family slaughtered by a demon. To make matters worse, his younger sister Nezuko, the sole survivor, has been transformed into a demon herself. Though devastated by this grim reality, Tanjiro resolves to become a “demon slayer” so that he can turn his sister back into a human, and kill the demon that massacred his family.",
+      "year": 2019,
+      "seasons": 3,
+      "idTmdb": 85937,
+      "id": 4
+    },
+    {
+      "title": "Boruto: Naruto Next Generations",
+      "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/e0B6i48kxdRkMcK4tR4YNfXGWOc.jpg",
+      "overview": "The Hidden Leaf Village has entered an era of peace and modernity. Tall buildings line the streets, giant screens flash with images, and the Thunder Rail runs through the village, connecting each district together. Though it's still a ninja village, the number of civilians has increased and the life of the shinobi is beginning to change. Boruto Uzumaki, son of Seventh Hokage Naruto Uzumaki, has enrolled in the Ninja Academy to learn the ways of the ninja. The other students are ready to dismiss him as \"just the son of the Hokage,” but Boruto’s heart and character blow all their assumptions away. As a series of mysterious events begins to unfold, it’s up to Boruto and his new friends to handle them. Like a gale-force wind, Boruto makes his own way into everyone's hearts; his story is about to begin!!",
+      "year": 2017,
+      "seasons": 1,
+      "idTmdb": "70881-boruto-naruto-next-generations",
+      "id": 5
+    },
+    {
+      "title": "My Hero Academia",
+      "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/phuYuzqWW9ru8EA3HVjE9W2Rr3M.jpg",
+      "overview": "In a world where eighty percent of the population has some kind of super-powered Quirk, Izuku was unlucky enough to be born completely normal. But that won't stop him from enrolling in a prestigious hero academy. Now, he'll get his first taste of brutal rivalry from other schools as he braves the cutthroat, no-holds-barred provisional license exam.",
+      "year": 2016,
+      "seasons": 5,
+      "idTmdb": 65930,
+      "id": 6
+    },
+    {
+      "title": "Dragon Ball Super",
+      "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qEUrbXJ2qt4Rg84Btlx4STOhgte.jpg",
+      "overview": "With Majin Boo defeated half-a-year prior, peace returns to Earth, where Son Goku (now a radish farmer) and his friends now live peaceful lives. However, a new threat appears in the form of Beerus, the God of Destruction. Considered the most terrifying being in the entire universe, Beerus is eager to fight the legendary warrior seen in a prophecy foretold decades ago known as the Super Saiyan God. The series retells the events from the two Dragon Ball Z films, Battle of Gods and Resurrection 'F' before proceeding to an original story about the exploration of alternate universes.",
+      "year": 2015,
+      "seasons": 1,
+      "idTmdb": "62715-dragon-ball-chou",
+      "id": 7
+    },
+    {
+      "title": "Parasyte - the maxim",
+      "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2ngHwPQhHGPpLkLQd2MTAI3iXPq.jpg",
+      "overview": "A species of parasitic aliens descends on Earth and quickly infiltrates humanity by entering the brains of vulnerable targets; insatiable beings that gain total control of their host and are capable of transforming themselves to feed on unsuspecting prey. High school student Shinichi Izumi falls victim to one of these parasites, but the creature fails to take over his brain and ends up in his right hand.",
+      "year": 2014,
+      "seasons": 1,
+      "idTmdb": "61459-kiseij-sei-no-kakuritsu",
+      "id": 8
+    },
+    {
+      "title": "Haikyu",
+      "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ecQ84z2sR0XapZu435MnFuEBzD8.jpg",
+      "overview": "Based off of the original Weekly Shonen Jump manga series from Haruichi Furudate, Haikyu!! is a slice-of-life sports anime revolving around Shouyou Hinata's love of volleyball. Inspired by a small-statured pro volleyball player, Hinata creates a volleyball team in his last year of middle school. Unfortunately the team is matched up against the \"King of the Court\" Tobio Kageyama's team in their first tournament and inevitably lose. After the crushing defeat, Hinata vows to surpass Kageyama. After entering high school, Hinata joins the volleyball team only to find that Tobio has also joined.",
+      "year": 2014,
+      "seasons": 4,
+      "idTmdb": "60863-haikyuu",
+      "id": 9
+    },
+    {
+      "title": "Attack on Titan",
+      "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aiy35Evcofzl7hASZZvsFgltHTX.jpg",
+      "overview": "Several hundred years ago, humans were nearly exterminated by Titans. Titans are typically several stories tall, seem to have no intelligence, devour human beings and, worst of all, seem to do it for the pleasure rather than as a food source. A small percentage of humanity survived by walling themselves in a city protected by extremely high walls, even taller than the biggest Titans. Flash forward to the present and the city has not seen a Titan in over 100 years. Teenage boy Eren and his foster sister Mikasa witness something horrific as the city walls are destroyed by a Colossal Titan that appears out of thin air. As the smaller Titans flood the city, the two kids watch in horror as their mother is eaten alive. Eren vows that he will murder every single Titan and take revenge for all of mankind.",
+      "year": 2013,
+      "seasons": 4,
+      "idTmdb": 1429,
+      "id": 10
+    },
+    {
+      "title": "Hunter x Hunter",
+      "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ucpgmUR1h5Te1BYegKItoPjOeF7.jpg",
+      "overview": "Twelve-year-old Gon Freecss one day discovers that the father he had always been told was dead was alive. His Father, Ging, is a Hunter — a member of society's elite with a license to go anywhere or do almost anything. Gon, determined to follow in his father's footsteps, decides to take the Hunter Examination and eventually find his father to prove himself as a Hunter in his own right. But on the way, he learns that there is more to becoming a Hunter than previously thought, and the challenges that he must face are considered the toughest in the world.",
+      "year": 2011,
+      "seasons": 1,
+      "idTmdb": "46298-hunter-x-hunter",
+      "id": 11
+    },
+    {
+      "title": "Naruto: Shippuden",
+      "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kV27j3Nz4d5z8u6mN3EJw9RiLg2.jpg",
+      "overview": "Naruto Shippuuden is the continuation of the original animated TV series Naruto.The story revolves around an older and slightly more matured Uzumaki Naruto and his quest to save his friend Uchiha Sasuke from the grips of the snake-like Shinobi, Orochimaru. After 2 and a half years Naruto finally returns to his village of Konoha, and sets about putting his ambitions to work, though it will not be easy, as He has amassed a few (more dangerous) enemies, in the likes of the shinobi organization; Akatsuki.",
+      "year": 2007,
+      "seasons": 1,
+      "idTmdb": "31910-naruto-shipp-den",
+      "id": 12
+    },
+    {
+      "title": "Bleach",
+      "img": "https://www.themoviedb.org/t/p/w1280/5iVUUnE2tgBPypACYNobCKHagfV.jpg",
+      "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
+      "year": 2004,
+      "seasons": 1,
+      "idTmdb": "30984-bleach",
+      "Episodes": [
+        {
+          "episode": 1,
+          "card": "https://static.wikia.nocookie.net/bleach/images/8/8a/Ep1TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210310033330&path-prefix=en",
+          "title": "The Day I Became a Shinigami",
+          "originalAirdate": "October 5, 2004",
+          "englishAirdate": "September 9, 2006",
+          "type": "Normal",
+          "id": 2
+        },
+        {
+          "episode": 2,
+          "card": "https://static.wikia.nocookie.net/bleach/images/4/47/Ep2TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210311232119&path-prefix=en",
+          "title": "The Shinigami's Work",
+          "originalAirdate": "October 12, 2004",
+          "englishAirdate": "September 16, 2006",
+          "type": "Normal",
+          "id": 3
+        },
+        {
+          "episode": 3,
+          "card": "https://static.wikia.nocookie.net/bleach/images/d/d2/Ep3TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210348040036&path-prefix=en",
+          "title": "The Older Brother's Wish, the Younger Sister's Wish",
+          "originalAirdate": "October 19, 2004",
+          "englishAirdate": "September 23, 2006",
+          "type": "Normal",
+          "id": 4
+        },
+        {
+          "episode": 4,
+          "card": "https://static.wikia.nocookie.net/bleach/images/7/79/Ep4TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210348063225&path-prefix=en",
+          "title": "Cursed Parakeet",
+          "originalAirdate": "October 26, 2004",
+          "englishAirdate": "September 30, 2006",
+          "type": "Normal",
+          "id": 5
+        },
+        {
+          "episode": 5,
+          "card": "https://static.wikia.nocookie.net/bleach/images/7/7b/Ep5TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210348072932&path-prefix=en",
+          "title": "Beat the Invisible Enemy!",
+          "originalAirdate": "November 2, 2004",
+          "englishAirdate": "October 7, 2006",
+          "type": "Normal",
+          "id": 6
+        },
+        {
+          "episode": 6,
+          "card": "https://static.wikia.nocookie.net/bleach/images/b/b6/Ep6TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210313004111&path-prefix=en",
+          "title": "Fight to the Death! Ichigo vs. Ichigo",
+          "originalAirdate": "November 9, 2004",
+          "englishAirdate": "October 14, 2006",
+          "type": "Normal",
+          "id": 7
+        },
+        {
+          "episode": 7,
+          "card": "https://static.wikia.nocookie.net/bleach/images/8/8b/Ep7TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210318225048&path-prefix=en",
+          "title": "Greetings from a Stuffed Lion",
+          "originalAirdate": "November 16, 2004",
+          "englishAirdate": "October 21, 2006",
+          "type": "Normal",
+          "id": 8
+        },
+        {
+          "episode": 8,
+          "card": "https://static.wikia.nocookie.net/bleach/images/b/bc/Ep8TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210319013055&path-prefix=en",
+          "title": "June 17, Memories in the Rain",
+          "originalAirdate": "November 23, 2004",
+          "englishAirdate": "October 28, 2006",
+          "type": "Normal",
+          "id": 9
+        },
+        {
+          "episode": 9,
+          "card": "https://static.wikia.nocookie.net/bleach/images/4/4f/Ep9TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210319233657&path-prefix=en",
+          "title": "Unbeatable Enemy",
+          "originalAirdate": "November 30, 2004",
+          "englishAirdate": "November 4, 2006",
+          "type": "Normal",
+          "id": 10
+        },
+        {
+          "episode": 10,
+          "card": "https://static.wikia.nocookie.net/bleach/images/f/ff/Ep10TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210320233508&path-prefix=en",
+          "title": "Casual Soul Realm Assault Trip!",
+          "originalAirdate": "December 7, 2004",
+          "englishAirdate": "November 11, 2006",
+          "type": "Normal",
+          "id": 11
+        },
+        {
+          "episode": 11,
+          "card": "https://static.wikia.nocookie.net/bleach/images/b/b0/Ep11TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210325000620&path-prefix=en",
+          "title": "The Legendary Quincy",
+          "originalAirdate": "December 14, 2004",
+          "englishAirdate": "November 18, 2006",
+          "type": "Normal",
+          "id": 12
+        },
+        {
+          "episode": 12,
+          "card": "https://static.wikia.nocookie.net/bleach/images/e/e4/Ep12TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210325074950&path-prefix=en",
+          "title": "A Gentle Right Arm",
+          "originalAirdate": "December 21, 2004",
+          "englishAirdate": "November 25, 2006",
+          "type": "Normal",
+          "id": 13
+        },
+        {
+          "episode": 13,
+          "card": "https://static.wikia.nocookie.net/bleach/images/5/54/Ep13TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210325230842&path-prefix=en",
+          "title": "Flower and Hollow",
+          "originalAirdate": "December 28, 2004",
+          "englishAirdate": "December 2, 2006",
+          "type": "Normal",
+          "id": 14
+        },
+        {
+          "episode": 14,
+          "card": "https://static.wikia.nocookie.net/bleach/images/f/f1/Ep14TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210326032048&path-prefix=en",
+          "title": "Back to Back, a Fight to the Death!",
+          "originalAirdate": "January 11, 2005",
+          "englishAirdate": "December 9, 2006",
+          "type": "Normal",
+          "id": 15
+        },
+        {
+          "episode": 15,
+          "card": "https://static.wikia.nocookie.net/bleach/images/a/ae/Ep15TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210327022925&path-prefix=en",
+          "title": "Kon's Great Plan",
+          "originalAirdate": "January 18, 2005",
+          "englishAirdate": "December 16, 2006",
+          "type": "Normal",
+          "id": 16
+        },
+        {
+          "episode": 16,
+          "card": "https://static.wikia.nocookie.net/bleach/images/a/af/Ep16TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210327072715&path-prefix=en",
+          "title": "The Encounter, Renji Abarai!",
+          "originalAirdate": "January 25, 2005",
+          "englishAirdate": "December 23, 2006",
+          "type": "Normal",
+          "id": 17
+        },
+        {
+          "episode": 17,
+          "card": "https://static.wikia.nocookie.net/bleach/images/c/c5/Ep17TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210328011929&path-prefix=en",
+          "title": "Ichigo Dies!",
+          "originalAirdate": "February 1, 2005",
+          "englishAirdate": "January 6, 2007",
+          "type": "Normal",
+          "id": 18
+        },
+        {
+          "episode": 18,
+          "card": "https://static.wikia.nocookie.net/bleach/images/1/11/Ep18TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210328063507&path-prefix=en",
+          "title": "Reclaim! The Power of the Shinigami",
+          "originalAirdate": "February 8, 2005",
+          "englishAirdate": "January 13, 2007",
+          "type": "Normal",
+          "id": 19
+        },
+        {
+          "episode": 19,
+          "card": "https://static.wikia.nocookie.net/bleach/images/e/ef/Ep19TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210328212841&path-prefix=en",
+          "title": "Ichigo Becomes a Hollow!",
+          "originalAirdate": "February 15, 2005",
+          "englishAirdate": "January 20, 2007",
+          "type": "Normal",
+          "id": 20
+        },
+        {
+          "episode": 20,
+          "card": "https://static.wikia.nocookie.net/bleach/images/1/1b/Ep20TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210329010058&path-prefix=en",
+          "title": "Gin Ichimaru's Shadow",
+          "originalAirdate": "February 22, 2005",
+          "englishAirdate": "January 27, 2007",
+          "type": "Normal",
+          "id": 21
+        },
+        {
+          "episode": 21,
+          "card": "https://static.wikia.nocookie.net/bleach/images/e/e3/Ep21TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210330094607&path-prefix=en",
+          "title": "Enter! The World of the Shinigami",
+          "originalAirdate": "March 1, 2005",
+          "englishAirdate": "February 3, 2007",
+          "type": "Normal",
+          "id": 22
+        },
+        {
+          "episode": 22,
+          "card": "https://static.wikia.nocookie.net/bleach/images/9/92/Ep22TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210330205821&path-prefix=en",
+          "title": "The Man who Hates Shinigami",
+          "originalAirdate": "March 8, 2005",
+          "englishAirdate": "February 10, 2007",
+          "type": "Normal",
+          "id": 23
+        },
+        {
+          "episode": 23,
+          "card": "https://static.wikia.nocookie.net/bleach/images/3/31/Ep23TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210331005858&path-prefix=en",
+          "title": "14 Days Before Rukia's Execution",
+          "originalAirdate": "March 15, 2005",
+          "englishAirdate": "February 17, 2007",
+          "type": "Normal",
+          "id": 24
+        },
+        {
+          "episode": 24,
+          "card": "https://static.wikia.nocookie.net/bleach/images/4/4c/Ep24TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210331031626&path-prefix=en",
+          "title": "Assemble! The Gotei 13",
+          "originalAirdate": "March 22, 2005",
+          "englishAirdate": "February 24, 2007",
+          "type": "Normal",
+          "id": 25
+        },
+        {
+          "episode": 25,
+          "card": "https://static.wikia.nocookie.net/bleach/images/6/61/Ep25TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210331233927&path-prefix=en",
+          "title": "Penetrate the Center with an Enormous Bombshell?",
+          "originalAirdate": "March 29, 2005",
+          "englishAirdate": "March 3, 2007",
+          "type": "Normal",
+          "id": 26
+        },
+        {
+          "episode": 26,
+          "card": "https://static.wikia.nocookie.net/bleach/images/8/86/Ep26TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210401033956&path-prefix=en",
+          "title": "Formation! The Worst Tag",
+          "originalAirdate": "April 5, 2005",
+          "englishAirdate": "March 10, 2007",
+          "type": "Normal",
+          "id": 27
+        },
+        {
+          "episode": 27,
+          "card": "https://static.wikia.nocookie.net/bleach/images/7/7c/Ep27TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210401070824&path-prefix=en",
+          "title": "Release the Death Blow!",
+          "originalAirdate": "April 12, 2005",
+          "englishAirdate": "March 25, 2007",
+          "type": "Normal",
+          "id": 28
+        },
+        {
+          "episode": 28,
+          "card": "https://static.wikia.nocookie.net/bleach/images/b/b5/Ep28TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210401221824&path-prefix=en",
+          "title": "Orihime Targeted",
+          "originalAirdate": "April 19, 2005",
+          "englishAirdate": "April 8, 2007",
+          "type": "Normal",
+          "id": 29
+        },
+        {
+          "episode": 29,
+          "card": "https://static.wikia.nocookie.net/bleach/images/c/cf/Ep29TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210402010931&path-prefix=en",
+          "title": "Breakthrough! The Shinigami's Encompassing Net",
+          "originalAirdate": "April 26, 2005",
+          "englishAirdate": "April 15, 2007",
+          "type": "Normal",
+          "id": 30
+        },
+        {
+          "episode": 30,
+          "card": "https://static.wikia.nocookie.net/bleach/images/e/e3/Ep30TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210402031330&path-prefix=en",
+          "title": "Renji's Confrontation",
+          "originalAirdate": "May 3, 2005|",
+          "englishAirdate": "April 22, 2007",
+          "type": "Normal",
+          "id": 31
+        },
+        {
+          "episode": 31,
+          "card": "https://static.wikia.nocookie.net/bleach/images/c/c9/Ep31TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210408003518&path-prefix=en",
+          "title": "The Resolution to Kill",
+          "originalAirdate": "May 10, 2005",
+          "englishAirdate": "April 29, 2007",
+          "type": "Normal",
+          "id": 32
+        },
+        {
+          "episode": 32,
+          "card": "https://static.wikia.nocookie.net/bleach/images/6/6e/Ep32TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210408022419&path-prefix=en",
+          "title": "The Star and the Stray Dog",
+          "originalAirdate": "May 17, 2005",
+          "englishAirdate": "May 6, 2007",
+          "type": "Expansion",
+          "id": 33
+        },
+        {
+          "episode": 33,
+          "card": "https://static.wikia.nocookie.net/bleach/images/f/f3/Ep33TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210408220045&path-prefix=en",
+          "title": "Miracle! The Mysterious New Hero",
+          "originalAirdate": "May 26, 2005",
+          "englishAirdate": "May 13, 2007",
+          "type": "Filler",
+          "id": 34
+        },
+        {
+          "episode": 34,
+          "card": "https://static.wikia.nocookie.net/bleach/images/6/6a/Ep34TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210409013053&path-prefix=en",
+          "title": "Tragedy of Dawn",
+          "originalAirdate": "June 1, 2005",
+          "englishAirdate": "May 20, 2007",
+          "type": "Normal",
+          "id": 35
+        },
+        {
+          "episode": 35,
+          "card": "https://static.wikia.nocookie.net/bleach/images/7/77/Ep35TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210409051139&path-prefix=en",
+          "title": "Aizen Assassinated! The Darkness which Approaches",
+          "originalAirdate": "June 7, 2005",
+          "englishAirdate": "May 27, 2007",
+          "type": "Normal",
+          "id": 36
+        },
+        {
+          "episode": 36,
+          "card": "https://static.wikia.nocookie.net/bleach/images/7/72/Ep36TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210409064545&path-prefix=en",
+          "title": "Kenpachi Zaraki Approaches!",
+          "originalAirdate": "June 14, 2005",
+          "englishAirdate": "June 10, 2007",
+          "type": "Normal",
+          "id": 37
+        },
+        {
+          "episode": 37,
+          "card": "https://static.wikia.nocookie.net/bleach/images/3/37/Ep37TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210410013506&path-prefix=en",
+          "title": "Motive of the Fist",
+          "originalAirdate": "June 21, 2005",
+          "englishAirdate": "June 17, 2007",
+          "type": "Normal",
+          "id": 38
+        },
+        {
+          "episode": 38,
+          "card": "https://static.wikia.nocookie.net/bleach/images/c/ce/Ep38TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210410030100&path-prefix=en",
+          "title": "Desperation! The Broken Zangetsu",
+          "originalAirdate": "June 28, 2005",
+          "englishAirdate": "June 24, 2007",
+          "type": "Normal",
+          "id": 39
+        },
+        {
+          "episode": 39,
+          "card": "https://static.wikia.nocookie.net/bleach/images/0/0c/Ep39TitleCard.png/revision/latest/scale-to-width-down/480?cb=20200320051638&path-prefix=en",
+          "title": "The Immortal Man",
+          "originalAirdate": "July 5, 2005",
+          "englishAirdate": "July 1, 2007",
+          "type": "Normal",
+          "id": 40
+        },
+        {
+          "episode": 40,
+          "card": "https://static.wikia.nocookie.net/bleach/images/a/ab/Ep40TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210410043158&path-prefix=en",
+          "title": "The Shinigami whom Ganju Met",
+          "originalAirdate": "July 12, 2005",
+          "englishAirdate": "July 8, 2007",
+          "type": "Normal",
+          "id": 41
+        },
+        {
+          "episode": 41,
+          "card": "https://static.wikia.nocookie.net/bleach/images/d/d2/Ep41TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210410053746&path-prefix=en",
+          "title": "Reunion, Ichigo and Rukia",
+          "originalAirdate": "July 19, 2005",
+          "englishAirdate": "July 15, 2007",
+          "type": "Normal",
+          "id": 42
+        },
+        {
+          "episode": 42,
+          "card": "https://static.wikia.nocookie.net/bleach/images/6/61/Ep42TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210410063544&path-prefix=en",
+          "title": "Flash Goddess Yoruichi, Dances!",
+          "originalAirdate": "July 26, 2005",
+          "englishAirdate": "July 21, 2007",
+          "type": "Normal",
+          "id": 43
+        },
+        {
+          "episode": 43,
+          "card": "https://static.wikia.nocookie.net/bleach/images/1/14/Ep43TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210410065738&path-prefix=en",
+          "title": "The Despicable Shinigami",
+          "originalAirdate": "August 2, 2005",
+          "englishAirdate": "July 28, 2007",
+          "type": "Normal",
+          "id": 44
+        },
+        {
+          "episode": 44,
+          "card": "https://static.wikia.nocookie.net/bleach/images/9/91/Ep44TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210410074212&path-prefix=en",
+          "title": "Ishida, The Utmost Limits of Power!",
+          "originalAirdate": "August 9, 2005",
+          "englishAirdate": "August 4, 2007",
+          "type": "Normal",
+          "id": 45
+        },
+        {
+          "episode": 45,
+          "card": "https://static.wikia.nocookie.net/bleach/images/5/52/Ep45TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210411010619&path-prefix=en",
+          "title": "Overcome Your Limits!",
+          "originalAirdate": "August 16, 2005",
+          "englishAirdate": "August 11, 2007",
+          "type": "Normal",
+          "id": 46
+        },
+        {
+          "episode": 46,
+          "card": "https://static.wikia.nocookie.net/bleach/images/e/ea/Ep46TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210411014629&path-prefix=en",
+          "title": "Authentic Records! School of Shinigami",
+          "originalAirdate": "August 23, 2005",
+          "englishAirdate": "August 18, 2007",
+          "type": "Normal",
+          "id": 47
+        },
+        {
+          "episode": 47,
+          "card": "https://static.wikia.nocookie.net/bleach/images/5/5b/Ep47TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210411024945&path-prefix=en",
+          "title": "The Avengers",
+          "originalAirdate": "August 30, 2005",
+          "englishAirdate": "September 1, 2007",
+          "type": "Normal",
+          "id": 48
+        },
+        {
+          "episode": 48,
+          "card": "https://static.wikia.nocookie.net/bleach/images/2/24/Ep48TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210411032050&path-prefix=en",
+          "title": "Hitsugaya Howls!",
+          "originalAirdate": "September 6, 2005",
+          "englishAirdate": "September 8, 2007",
+          "type": "Normal",
+          "id": 49
+        },
+        {
+          "episode": 49,
+          "card": "https://static.wikia.nocookie.net/bleach/images/5/57/Ep49TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210411043256&path-prefix=en",
+          "title": "Rukia's Nightmare",
+          "originalAirdate": "September 13, 2005",
+          "englishAirdate": "September 15, 2007",
+          "type": "Normal",
+          "id": 50
+        },
+        {
+          "episode": 50,
+          "card": "https://static.wikia.nocookie.net/bleach/images/5/56/Ep50TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210411054480&path-prefix=en",
+          "title": "The Reviving Lion",
+          "originalAirdate": "September 20, 2005",
+          "englishAirdate": "September 22, 2007",
+          "type": "Filler",
+          "id": 51
+        },
+        {
+          "episode": 51,
+          "card": "https://static.wikia.nocookie.net/bleach/images/c/c5/Ep51TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210411224030&path-prefix=en",
+          "title": "Morning of the Sentence",
+          "originalAirdate": "September 27, 2005",
+          "englishAirdate": "October 6, 2007",
+          "type": "Normal",
+          "id": 52
+        },
+        {
+          "episode": 52,
+          "card": "https://static.wikia.nocookie.net/bleach/images/5/5b/Ep52TitleCard.png/revision/latest/scale-to-width-down/480?cb=20200422014116&path-prefix=en",
+          "title": "Renji, Oath of the Soul! Death Match with Byakuya",
+          "originalAirdate": "October 4, 2005",
+          "englishAirdate": "October 13, 2007",
+          "type": "Normal",
+          "id": 53
+        },
+        {
+          "episode": 53,
+          "card": "https://static.wikia.nocookie.net/bleach/images/5/53/Ep53TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210448011257&path-prefix=en",
+          "title": "Gin Ichimaru's Temptation, Resolution Shattered",
+          "originalAirdate": "October 4, 2005",
+          "englishAirdate": "March 2, 2008",
+          "type": "Normal",
+          "id": 54
+        },
+        {
+          "episode": 54,
+          "card": "https://static.wikia.nocookie.net/bleach/images/9/9c/Ep54TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210448033025&path-prefix=en",
+          "title": "An Accomplished Oath! Get back Rukia!",
+          "originalAirdate": "October 18, 2005",
+          "englishAirdate": "March 9, 2008",
+          "type": "Normal",
+          "id": 55
+        },
+        {
+          "episode": 55,
+          "card": "https://static.wikia.nocookie.net/bleach/images/3/37/Ep55TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210448053550&path-prefix=en",
+          "title": "The Strongest Shinigami! Ultimate Confrontation Between Teacher and Students",
+          "originalAirdate": "October 25, 2005",
+          "englishAirdate": "March 16, 2008",
+          "type": "Normal",
+          "id": 56
+        },
+        {
+          "episode": 56,
+          "card": "https://static.wikia.nocookie.net/bleach/images/4/44/Ep56TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210412204315&path-prefix=en",
+          "title": "Supersonic Battle! Determine the Goddess of Battle",
+          "originalAirdate": "November 1, 2005",
+          "englishAirdate": "March 23, 2008",
+          "type": "Normal",
+          "id": 57
+        },
+        {
+          "episode": 57,
+          "card": "https://static.wikia.nocookie.net/bleach/images/c/c7/Ep57TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210412222930&path-prefix=en",
+          "title": "Senbonzakura, Crushed! Zangetsu Thrusts through the Sky",
+          "originalAirdate": "November 8, 2005",
+          "englishAirdate": "March 30, 2008",
+          "type": "Normal",
+          "id": 58
+        },
+        {
+          "episode": 58,
+          "card": "https://static.wikia.nocookie.net/bleach/images/e/ec/Ep58TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210413000529&path-prefix=en",
+          "title": "Release! The Black Blade, the Miraculous Power",
+          "originalAirdate": "November 15, 2005",
+          "englishAirdate": "April 6, 2008",
+          "type": "Normal",
+          "id": 59
+        },
+        {
+          "episode": 59,
+          "card": "https://static.wikia.nocookie.net/bleach/images/0/0a/Ep59TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210413012922&path-prefix=en",
+          "title": "Conclusion of the Death Match! White Pride and Black Desire",
+          "originalAirdate": "November 22, 2005",
+          "englishAirdate": "April 13, 2008",
+          "type": "Normal",
+          "id": 60
+        },
+        {
+          "episode": 60,
+          "card": "https://static.wikia.nocookie.net/bleach/images/6/6e/Ep60TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210413214800&path-prefix=en",
+          "title": "Reality of the Despair, the Assassin's Dagger is Swung",
+          "originalAirdate": "December 6, 2005",
+          "englishAirdate": "April 20, 2008",
+          "type": "Normal",
+          "id": 61
+        },
+        {
+          "episode": 61,
+          "card": "https://static.wikia.nocookie.net/bleach/images/b/b3/Ep61TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210413233634&path-prefix=en",
+          "title": "Aizen Stands! Horrible Ambitions",
+          "originalAirdate": "December 13, 2005",
+          "englishAirdate": "April 27, 2008",
+          "type": "Normal",
+          "id": 62
+        },
+        {
+          "episode": 62,
+          "card": "https://static.wikia.nocookie.net/bleach/images/4/4e/Ep62TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210414020817&path-prefix=en",
+          "title": "Gather Together! Group of the Strongest Shinigami!",
+          "originalAirdate": "December 20, 2005",
+          "englishAirdate": "May 4, 2008",
+          "type": "Normal",
+          "id": 63
+        },
+        {
+          "episode": 63,
+          "card": "https://static.wikia.nocookie.net/bleach/images/8/84/Ep63TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210414035839&path-prefix=en",
+          "title": "Rukia's Resolution, Ichigo's Feelings",
+          "originalAirdate": "January 10, 2006",
+          "englishAirdate": "May 11, 2008",
+          "type": "Normal",
+          "id": 64
+        },
+        {
+          "episode": 64,
+          "card": "https://static.wikia.nocookie.net/bleach/images/6/67/Ep64TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210414223831&path-prefix=en",
+          "title": "New School Term, Renji has Come to the Human World?!",
+          "originalAirdate": "January 17, 2006",
+          "englishAirdate": "May 18, 2008",
+          "type": "Filler",
+          "id": 65
+        },
+        {
+          "episode": 65,
+          "card": "https://static.wikia.nocookie.net/bleach/images/a/a2/Ep65TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210414230856&path-prefix=en",
+          "title": "Creeping Terror, the Second Victim",
+          "originalAirdate": "January 24, 2006",
+          "englishAirdate": "May 25, 2008",
+          "type": "Filler",
+          "id": 66
+        },
+        {
+          "episode": 66,
+          "card": "https://static.wikia.nocookie.net/bleach/images/9/90/Ep66TitleCard.png/revision/latest/scale-to-width-down/480?cb=20200807023355&path-prefix=en",
+          "title": "Break Through! The Trap Hidden in the Labyrinth",
+          "originalAirdate": "January 31, 2006",
+          "englishAirdate": "June 1, 2008",
+          "type": "Filler",
+          "id": 67
+        },
+        {
+          "episode": 67,
+          "card": "https://static.wikia.nocookie.net/bleach/images/b/b9/Ep67TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210415003923&path-prefix=en",
+          "title": "Death Game! The Missing Classmate",
+          "originalAirdate": "February 7, 2006",
+          "englishAirdate": "June 8, 2008",
+          "type": "Filler",
+          "id": 68
+        },
+        {
+          "episode": 68,
+          "card": "https://static.wikia.nocookie.net/bleach/images/2/25/Ep68TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210415013829&path-prefix=en",
+          "title": "True Identity of the Devil, the Secret which is Revealed",
+          "originalAirdate": "February 14, 2006",
+          "englishAirdate": "June 15, 2008",
+          "type": "Filler",
+          "id": 69
+        },
+        {
+          "episode": 69,
+          "card": "https://static.wikia.nocookie.net/bleach/images/3/3a/Ep69TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210415034127&path-prefix=en",
+          "title": "Bount! The Ones Who Hunt Souls",
+          "originalAirdate": "February 14, 2006",
+          "englishAirdate": "June 22, 2008",
+          "type": "Filler",
+          "id": 70
+        },
+        {
+          "episode": 70,
+          "card": "https://static.wikia.nocookie.net/bleach/images/4/40/Ep70TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210415041314&path-prefix=en",
+          "title": "Rukia's Return! Revival of the Substitute Team!",
+          "originalAirdate": "February 21, 2006",
+          "englishAirdate": "June 29, 2008",
+          "type": "Filler",
+          "id": 71
+        },
+        {
+          "episode": 71,
+          "card": "https://static.wikia.nocookie.net/bleach/images/f/fd/Ep71TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210415050646&path-prefix=en",
+          "title": "The Moment of Collision! An Evil Hand Draws Near to the Quincy",
+          "originalAirdate": "March 7, 2006",
+          "englishAirdate": "July 6, 2008",
+          "type": "Filler",
+          "id": 72
+        },
+        {
+          "episode": 72,
+          "card": "https://static.wikia.nocookie.net/bleach/images/2/21/Ep72TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210415051807&path-prefix=en",
+          "title": "Water Attack! Escape from the Shutdown Hospital",
+          "originalAirdate": "March 14, 2006",
+          "englishAirdate": "July 13, 2008",
+          "type": "Filler",
+          "id": 73
+        },
+        {
+          "episode": 73,
+          "card": "https://static.wikia.nocookie.net/bleach/images/e/e1/Ep73TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210415053208&path-prefix=en",
+          "title": "Gathering at the Place of Fortune! The Man Who Makes His Move",
+          "originalAirdate": "March 28, 2006",
+          "englishAirdate": "July 20, 2008",
+          "type": "Filler",
+          "id": 74
+        },
+        {
+          "episode": 74,
+          "card": "https://static.wikia.nocookie.net/bleach/images/c/c6/Ep74TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210415054556&path-prefix=en",
+          "title": "Memories of an Eternally Living Clan",
+          "originalAirdate": "March 28, 2006",
+          "englishAirdate": "July 27, 2008",
+          "type": "Filler",
+          "id": 75
+        },
+        {
+          "episode": 75,
+          "card": "https://static.wikia.nocookie.net/bleach/images/3/3a/Ep75TitleCard.png/revision/latest/scale-to-width-down/480?cb=20200948080114&path-prefix=en",
+          "title": "Earth-Shattering Event at the 11th Division! The Shinigami who Rises Again",
+          "originalAirdate": "April 4, 2006",
+          "englishAirdate": "August 3, 2008",
+          "type": "Filler",
+          "id": 76
+        },
+        {
+          "episode": 76,
+          "card": "https://static.wikia.nocookie.net/bleach/images/1/1b/Ep76TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210415061808&path-prefix=en",
+          "title": "Crashing force! Fried vs. Zangetsu",
+          "originalAirdate": "April 4, 2006",
+          "englishAirdate": "August 10, 2008",
+          "type": "Filler",
+          "id": 77
+        },
+        {
+          "episode": 77,
+          "card": "https://static.wikia.nocookie.net/bleach/images/5/50/Ep77TitleCard.png/revision/latest/scale-to-width-down/480?cb=20200916025729&path-prefix=en",
+          "title": "Unfading Grudge! The Shinigami whom Kenpachi Killed",
+          "originalAirdate": "April 11, 2006",
+          "englishAirdate": "August 24, 2008",
+          "type": "Filler",
+          "id": 78
+        },
+        {
+          "episode": 78,
+          "card": "https://static.wikia.nocookie.net/bleach/images/6/67/Ep78TitleCard.png/revision/latest/scale-to-width-down/480?cb=20200916221550&path-prefix=en",
+          "title": "Shocking Revelations for the Gotei 13! The Truth Buried in History",
+          "originalAirdate": "May 2, 2006",
+          "englishAirdate": "August 31, 2008",
+          "type": "Filler",
+          "id": 79
+        },
+        {
+          "episode": 79,
+          "card": "https://static.wikia.nocookie.net/bleach/images/6/61/Ep79TitleCard.png/revision/latest/scale-to-width-down/480?cb=20200917232105&path-prefix=en",
+          "title": "Yoshino's Decision of Death",
+          "originalAirdate": "May 9, 2006",
+          "englishAirdate": "September 7, 2008",
+          "type": "Filler",
+          "id": 80
+        },
+        {
+          "episode": 80,
+          "card": "https://static.wikia.nocookie.net/bleach/images/a/a3/Ep80TitleCard.png/revision/latest/scale-to-width-down/480?cb=20200920142923&path-prefix=en",
+          "title": "Assault From a Formidable Enemy! A Tiny Final Line of Defense?!",
+          "originalAirdate": "May 16, 2006",
+          "englishAirdate": "September 13, 2008",
+          "type": "Filler",
+          "id": 81
+        },
+        {
+          "episode": 81,
+          "card": "https://static.wikia.nocookie.net/bleach/images/7/7d/Ep81TitleCard.png/revision/latest/scale-to-width-down/480?cb=20200928063504&path-prefix=en",
+          "title": "Hitsugaya Moves! The Attacked City",
+          "originalAirdate": "May 23, 2006",
+          "englishAirdate": "September 20, 2008",
+          "type": "Filler",
+          "id": 82
+        },
+        {
+          "episode": 82,
+          "card": "https://static.wikia.nocookie.net/bleach/images/c/c2/Ep82TitleCard.png/revision/latest/scale-to-width-down/480?cb=20200928131553&path-prefix=en",
+          "title": "Ichigo vs. Dalk! Appearance of the Faded Darkness",
+          "originalAirdate": "May 30, 2006",
+          "englishAirdate": "October 4, 2008",
+          "type": "Filler",
+          "id": 83
+        },
+        {
+          "episode": 83,
+          "card": "https://static.wikia.nocookie.net/bleach/images/1/1a/Ep83TitleCard.png/revision/latest/scale-to-width-down/480?cb=20200929060504&path-prefix=en",
+          "title": "Gray Shadow, the Secret of the Dolls",
+          "originalAirdate": "June 6, 2006",
+          "englishAirdate": "October 11, 2008",
+          "type": "Filler",
+          "id": 84
+        },
+        {
+          "episode": 84,
+          "card": "https://static.wikia.nocookie.net/bleach/images/b/b8/Ep84TitleCard.png/revision/latest/scale-to-width-down/480?cb=20200930072537&path-prefix=en",
+          "title": "Dissension in the Substitute Team? Rukia's Betrayal",
+          "originalAirdate": "June 13, 2006",
+          "englishAirdate": "October 18, 2008",
+          "type": "Filler",
+          "id": 85
+        },
+        {
+          "episode": 85,
+          "card": "https://static.wikia.nocookie.net/bleach/images/f/f1/Ep85TitleCard.png/revision/latest/scale-to-width-down/480?cb=20201001064040&path-prefix=en",
+          "title": "Deadly Battle of Tears! Rukia vs. Orihime",
+          "originalAirdate": "June 13, 2006",
+          "englishAirdate": "October 25, 2008",
+          "type": "Filler",
+          "id": 86
+        },
+        {
+          "episode": 86,
+          "card": "https://static.wikia.nocookie.net/bleach/images/e/ed/Ep86TitleCard.png/revision/latest/scale-to-width-down/480?cb=20201017030226&path-prefix=en",
+          "title": "Rangiku dances! Slice the invisible enemy!",
+          "originalAirdate": "June 20, 2006",
+          "englishAirdate": "November 1, 2008",
+          "type": "Filler",
+          "id": 87
+        },
+        {
+          "episode": 87,
+          "card": "https://static.wikia.nocookie.net/bleach/images/0/06/Ep87TitleCard.png/revision/latest/scale-to-width-down/480?cb=20201019083910&path-prefix=en",
+          "title": "Byakuya is summoned! The Gotei 13 start to move!",
+          "originalAirdate": "July 4, 2006",
+          "englishAirdate": "November 8, 2008",
+          "type": "Filler",
+          "id": 88
+        },
+        {
+          "episode": 88,
+          "card": "https://static.wikia.nocookie.net/bleach/images/b/bb/Ep88TitleCard.png/revision/latest/scale-to-width-down/480?cb=20201020204303&path-prefix=en",
+          "title": "Annihilation of the Lieutenants!? Trap in the Underground Cave",
+          "originalAirdate": "July 11, 2006",
+          "englishAirdate": "November 15, 2008",
+          "type": "Filler",
+          "id": 89
+        },
+        {
+          "episode": 89,
+          "card": "https://static.wikia.nocookie.net/bleach/images/1/19/Ep89TitleCard.png/revision/latest/scale-to-width-down/480?cb=20201021213127&path-prefix=en",
+          "title": "Rematch?! Ishida vs. Nemu",
+          "originalAirdate": "July 18, 2006",
+          "englishAirdate": "November 22, 2008",
+          "type": "Filler",
+          "id": 90
+        },
+        {
+          "episode": 90,
+          "card": "https://static.wikia.nocookie.net/bleach/images/0/0a/Ep90TitleCard.png/revision/latest/scale-to-width-down/480?cb=20201231015703&path-prefix=en",
+          "title": "Renji Abarai, Bankai of the Soul!",
+          "originalAirdate": "July 25, 2006",
+          "englishAirdate": "November 29, 2008",
+          "type": "Filler",
+          "id": 91
+        },
+        {
+          "episode": 91,
+          "card": "https://static.wikia.nocookie.net/bleach/images/2/26/Ep91TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210101041000&path-prefix=en",
+          "title": "Shinigami and Quincy, the Reviving Power",
+          "originalAirdate": "August 1, 2006",
+          "englishAirdate": "December 6, 2008",
+          "type": "Filler",
+          "id": 92
+        },
+        {
+          "episode": 92,
+          "card": "https://static.wikia.nocookie.net/bleach/images/c/c7/Ep92TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210110025610&path-prefix=en",
+          "title": "Invasion of the Shinigami World, Again",
+          "originalAirdate": "August 8, 2006",
+          "englishAirdate": "December 13, 2008",
+          "type": "Filler",
+          "id": 93
+        },
+        {
+          "episode": 93,
+          "card": "https://static.wikia.nocookie.net/bleach/images/4/43/Ep93TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210111060755&path-prefix=en",
+          "title": "The Bount Assault! The Gotei 13's Destructive Earthquake",
+          "originalAirdate": "August 15, 2006",
+          "englishAirdate": "December 20, 2008",
+          "type": "Filler",
+          "id": 94
+        },
+        {
+          "episode": 94,
+          "card": "https://static.wikia.nocookie.net/bleach/images/3/36/Ep94TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210148074850&path-prefix=en",
+          "title": "Hitsugaya's Decision! The Clash Approaches",
+          "originalAirdate": "August 22, 2006",
+          "englishAirdate": "December 27, 2008",
+          "type": "Filler",
+          "id": 95
+        },
+        {
+          "episode": 95,
+          "card": "https://static.wikia.nocookie.net/bleach/images/6/6e/Ep95TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210113055646&path-prefix=en",
+          "title": "Byakuya Takes the Field! Dance of the Wind-Splitting Cherry Blossoms",
+          "originalAirdate": "September 5, 2006",
+          "englishAirdate": "January 3, 2009",
+          "type": "Filler",
+          "id": 96
+        },
+        {
+          "episode": 96,
+          "card": "https://static.wikia.nocookie.net/bleach/images/1/1e/Ep96TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210114082609&path-prefix=en",
+          "title": "Ichigo・Byakuya・Kariya, The Battle of the Three Extremes!",
+          "originalAirdate": "September 12, 2006",
+          "englishAirdate": "January 10, 2009",
+          "type": "Filler",
+          "id": 97
+        },
+        {
+          "episode": 97,
+          "card": "https://static.wikia.nocookie.net/bleach/images/6/64/Ep97TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210115052906&path-prefix=en",
+          "title": "Hitsugaya Strikes! Slice the Enemy in the Middle of the Forest",
+          "originalAirdate": "September 19, 2006",
+          "englishAirdate": "January 17, 2009",
+          "type": "Filler",
+          "id": 98
+        },
+        {
+          "episode": 98,
+          "card": "https://static.wikia.nocookie.net/bleach/images/4/48/Ep98TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210202031811&path-prefix=en",
+          "title": "Clash! Kenpachi Zaraki vs. Maki Ichinose",
+          "originalAirdate": "October 4, 2006",
+          "englishAirdate": "January 24, 2009",
+          "type": "Filler",
+          "id": 99
+        },
+        {
+          "episode": 99,
+          "card": "https://static.wikia.nocookie.net/bleach/images/3/34/Ep99TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210202171112&path-prefix=en",
+          "title": "Shinigami Vs. Shinigami! The Uncontrollable Power",
+          "originalAirdate": "October 11, 2006",
+          "englishAirdate": "January 31, 2009",
+          "type": "Filler",
+          "id": 100
+        },
+        {
+          "episode": 100,
+          "card": "https://static.wikia.nocookie.net/bleach/images/7/76/Ep100TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210203154303&path-prefix=en",
+          "title": "Suì-Fēng Dies? The Last of the Special Forces",
+          "originalAirdate": "October 18, 2006",
+          "englishAirdate": "February 07, 2009",
+          "type": "Filler",
+          "id": 101
+        },
+        {
+          "episode": 101,
+          "card": "https://static.wikia.nocookie.net/bleach/images/0/0e/Ep101TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210204153853&path-prefix=en",
+          "title": "Mayuri's Bankai! Sawatari・Clash of the Demon",
+          "originalAirdate": "November 1, 2006",
+          "englishAirdate": "February 14, 2009",
+          "type": "Filler",
+          "id": 102
+        },
+        {
+          "episode": 102,
+          "card": "https://static.wikia.nocookie.net/bleach/images/e/e9/Ep102TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210205025435&path-prefix=en",
+          "title": "The Last Quincy! The Exploding Power",
+          "originalAirdate": "November 8, 2006",
+          "englishAirdate": "February 21, 2009",
+          "type": "Filler",
+          "id": 103
+        },
+        {
+          "episode": 103,
+          "card": "https://static.wikia.nocookie.net/bleach/images/7/77/Ep103TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210205191058&path-prefix=en",
+          "title": "Ishida, exceeding the limits to attack!",
+          "originalAirdate": "November 15, 2006",
+          "englishAirdate": "February 28, 2009",
+          "type": "Filler",
+          "id": 104
+        },
+        {
+          "episode": 104,
+          "card": "https://static.wikia.nocookie.net/bleach/images/e/e2/Ep104TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210215064919&path-prefix=en",
+          "title": "10th Division's Death Struggle! The Release of Hyōrinmaru",
+          "originalAirdate": "November 22, 2006",
+          "englishAirdate": "March 07, 2009",
+          "type": "Filler",
+          "id": 105
+        },
+        {
+          "episode": 105,
+          "card": "https://static.wikia.nocookie.net/bleach/images/9/9d/Ep105TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210216042226&path-prefix=en",
+          "title": "Kariya! Countdown to the Detonation",
+          "originalAirdate": "November 29, 2006",
+          "englishAirdate": "March 14, 2009",
+          "type": "Filler",
+          "id": 106
+        },
+        {
+          "episode": 106,
+          "card": "https://static.wikia.nocookie.net/bleach/images/f/f6/Ep106TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210217005917&path-prefix=en",
+          "title": "Life and Revenge! Ishida, the Ultimate Choice",
+          "originalAirdate": "December 6, 2006",
+          "englishAirdate": "March 21, 2009",
+          "type": "Filler",
+          "id": 107
+        },
+        {
+          "episode": 107,
+          "card": "https://static.wikia.nocookie.net/bleach/images/2/24/Ep107TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210218031041&path-prefix=en",
+          "title": "The Swung-Down Edge! The Moment of Ruin",
+          "originalAirdate": "December 13, 2006",
+          "englishAirdate": "March 28, 2009",
+          "type": "Filler",
+          "id": 108
+        },
+        {
+          "episode": 108,
+          "card": "https://static.wikia.nocookie.net/bleach/images/3/3a/Ep108TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210219024142&path-prefix=en",
+          "title": "The Wailing Bount! The Last Clash",
+          "originalAirdate": "December 20, 2006",
+          "englishAirdate": "April 4, 2009",
+          "type": "Filler",
+          "id": 109
+        },
+        {
+          "episode": 109,
+          "card": "https://static.wikia.nocookie.net/bleach/images/0/04/Ep109TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210220021343&path-prefix=en",
+          "title": "Ichigo and Rukia, Thoughts in the Revolving Sky",
+          "originalAirdate": "January 4, 2007",
+          "englishAirdate": "April 11, 2009",
+          "type": "Expansion",
+          "id": 110
+        },
+        {
+          "episode": 110,
+          "card": "https://static.wikia.nocookie.net/bleach/images/a/a8/Ep110TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210520062933&path-prefix=en",
+          "title": "Reopening of the Substitute Business! The Terrifying Transfer Student",
+          "originalAirdate": "January 10, 2007",
+          "englishAirdate": "April 18, 2009",
+          "type": "Normal",
+          "id": 111
+        },
+        {
+          "episode": 111,
+          "card": "https://static.wikia.nocookie.net/bleach/images/b/b5/Ep111TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210525041925&path-prefix=en",
+          "title": "Shock! The True Characters of the Fathers",
+          "originalAirdate": "January 17, 2007",
+          "englishAirdate": "April 18, 2009",
+          "type": "Normal",
+          "id": 112
+        },
+        {
+          "episode": 112,
+          "card": "https://static.wikia.nocookie.net/bleach/images/5/5f/Ep112TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210608055459&path-prefix=en",
+          "title": "The Commencement of War, Visored and Arrancar",
+          "originalAirdate": "January 24, 2007",
+          "englishAirdate": "May 2, 2009",
+          "type": "Normal",
+          "id": 113
+        },
+        {
+          "episode": 113,
+          "card": "https://static.wikia.nocookie.net/bleach/images/a/a6/Ep113TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210609071045&path-prefix=en",
+          "title": "Prelude to the Apocalypse, The Arrancar's Attack",
+          "originalAirdate": "January 31, 2007",
+          "englishAirdate": "May 2, 2009",
+          "type": "Normal",
+          "id": 114
+        },
+        {
+          "episode": 114,
+          "card": "https://static.wikia.nocookie.net/bleach/images/7/72/Ep114TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210610045853&path-prefix=en",
+          "title": "Reunion, Ichigo and Rukia and Shinigami",
+          "originalAirdate": "February 7, 2007",
+          "englishAirdate": "May 9, 2009",
+          "type": "Normal",
+          "id": 115
+        },
+        {
+          "episode": 115,
+          "card": "https://static.wikia.nocookie.net/bleach/images/9/98/Ep115TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210611071846&path-prefix=en",
+          "title": "Mission! The Shinigami Have Come",
+          "originalAirdate": "February 14, 2007",
+          "englishAirdate": "May 9, 2009",
+          "type": "Normal",
+          "id": 116
+        },
+        {
+          "episode": 116,
+          "card": "https://static.wikia.nocookie.net/bleach/images/b/b3/Ep116TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210621001714&path-prefix=en",
+          "title": "The Evil Eye, Aizen Again",
+          "originalAirdate": "February 21, 2007",
+          "englishAirdate": "May 16, 2009",
+          "type": "Normal",
+          "id": 117
+        },
+        {
+          "episode": 117,
+          "card": "https://static.wikia.nocookie.net/bleach/images/f/f3/Ep117TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210621054609&path-prefix=en",
+          "title": "Rukia's Battle Commences! The Freezing White Blade",
+          "originalAirdate": "February 28, 2007",
+          "englishAirdate": "May 16, 2009",
+          "type": "Normal",
+          "id": 118
+        },
+        {
+          "episode": 118,
+          "card": "https://static.wikia.nocookie.net/bleach/images/3/36/Ep118TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210622134638&path-prefix=en",
+          "title": "Ikkaku's Bankai! The Power that Breaks Everything",
+          "originalAirdate": "March 7, 2007",
+          "englishAirdate": "May 23, 2009",
+          "type": "Normal",
+          "id": 119
+        },
+        {
+          "episode": 119,
+          "card": "https://static.wikia.nocookie.net/bleach/images/3/3d/Ep119TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210627054846&path-prefix=en",
+          "title": "Zaraki Division's Secret Story! The Lucky Men",
+          "originalAirdate": "March 21, 2007",
+          "englishAirdate": "May 23, 2009",
+          "type": "Expansion",
+          "id": 120
+        },
+        {
+          "episode": 480,
+          "card": "https://static.wikia.nocookie.net/bleach/images/4/49/Ep480TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210821115242&path-prefix=en",
+          "title": "Hitsugaya Scatters! The Broken Hyōrinmaru",
+          "originalAirdate": "March 28, 2007",
+          "englishAirdate": "May 30, 2009",
+          "type": "Normal",
+          "id": 121
+        },
+        {
+          "episode": 121,
+          "card": "https://static.wikia.nocookie.net/bleach/images/7/79/Ep121TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210823131701&path-prefix=en",
+          "title": "Clash! The Person Who Protects vs. The Person Who Suffers",
+          "originalAirdate": "April 11, 2007",
+          "englishAirdate": "May 30, 2009",
+          "type": "Normal",
+          "id": 122
+        },
+        {
+          "episode": 122,
+          "card": "https://static.wikia.nocookie.net/bleach/images/d/d0/Ep122TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210908003510&path-prefix=en",
+          "title": "Visored! The Power of the Awakened",
+          "originalAirdate": "April 18, 2007",
+          "englishAirdate": "June 6, 2009",
+          "type": "Normal",
+          "id": 123
+        },
+        {
+          "episode": 123,
+          "card": "https://static.wikia.nocookie.net/bleach/images/d/d3/Ep123TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210908150817&path-prefix=en",
+          "title": "Ichigo, complete Hollowfication!?",
+          "originalAirdate": "April 25, 2007",
+          "englishAirdate": "June 6, 2009",
+          "type": "Normal",
+          "id": 124
+        },
+        {
+          "episode": 124,
+          "card": "https://static.wikia.nocookie.net/bleach/images/a/ac/Ep124TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210909072053&path-prefix=en",
+          "title": "Collision! Black Bankai and White Bankai",
+          "originalAirdate": "May 2, 2007",
+          "englishAirdate": "June 13, 2009",
+          "type": "Normal",
+          "id": 125
+        },
+        {
+          "episode": 125,
+          "card": "https://static.wikia.nocookie.net/bleach/images/1/1a/Ep125TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210910061429&path-prefix=en",
+          "title": "Urgent Report! Aizen's Terrifying Plan!",
+          "originalAirdate": "May 9, 2007",
+          "englishAirdate": "June 13, 2009",
+          "type": "Normal",
+          "id": 126
+        },
+        {
+          "episode": 126,
+          "card": "https://static.wikia.nocookie.net/bleach/images/2/26/Ep126TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210918231409&path-prefix=en",
+          "title": "Uryū vs. Ryūken! Clash of the parent-child Quincy",
+          "originalAirdate": "May 16, 2007",
+          "englishAirdate": "June 20, 2009",
+          "type": "Normal",
+          "id": 127
+        },
+        {
+          "episode": 127,
+          "card": "https://static.wikia.nocookie.net/bleach/images/e/eb/Ep127TitleCard.png/revision/latest/scale-to-width-down/480?cb=20210919175709&path-prefix=en",
+          "title": "Urahara's Decision, Orihime's Thoughts",
+          "originalAirdate": "May 30, 2007",
+          "englishAirdate": "June 20, 2009",
+          "type": "Normal",
+          "id": 128
+        },
+        {
+          "episode": 128,
+          "card": "https://static.wikia.nocookie.net/bleach/images/8/82/Ep128TitleCard.png/revision/latest/scale-to-width-down/480?cb=20211010073258&path-prefix=en",
+          "title": "The Nightmare Arrancar! Team Hitsugaya Moves Out",
+          "originalAirdate": "June 6, 2007",
+          "englishAirdate": "June 27, 2009",
+          "type": "Filler",
+          "id": 129
+        },
+        {
+          "episode": 129,
+          "card": "https://static.wikia.nocookie.net/bleach/images/1/18/Ep129TitleCard.png/revision/latest/scale-to-width-down/480?cb=20211011035722&path-prefix=en",
+          "title": "The Swooping Descent of the Dark Emissary! The Propagation of Malice",
+          "originalAirdate": "June 13, 2007",
+          "englishAirdate": "June 27, 2009",
+          "type": "Filler",
+          "id": 130
+        },
+        {
+          "episode": 130,
+          "card": "https://static.wikia.nocookie.net/bleach/images/7/78/Ep130TitleCard.png/revision/latest/scale-to-width-down/480?cb=20211048025220&path-prefix=en",
+          "title": "The Invisible Enemy! Hitsugaya's Merciless Decision",
+          "originalAirdate": "June 20, 2007",
+          "englishAirdate": "July 4, 2009",
+          "type": "Filler",
+          "id": 131
+        },
+        {
+          "episode": 131,
+          "card": "https://static.wikia.nocookie.net/bleach/images/e/ee/Ep131TitleCard.png/revision/latest/scale-to-width-down/480?cb=20211012203529&path-prefix=en",
+          "title": "Rangiku's Tears, the Sorrowful Parting of Brother and Sister",
+          "originalAirdate": "June 27, 2007",
+          "englishAirdate": "July 4, 2009",
+          "type": "Filler",
+          "id": 132
+        },
+        {
+          "episode": 132,
+          "card": "https://static.wikia.nocookie.net/bleach/images/5/58/Ep132TitleCard.png/revision/latest/scale-to-width-down/480?cb=20211024065936&path-prefix=en",
+          "title": "Hitsugaya, Karin and Soccer Ball",
+          "originalAirdate": "July 4, 2007",
+          "englishAirdate": "July 11, 2009",
+          "type": "Filler",
+          "id": 133
+        },
+        {
+          "episode": 133,
+          "card": "https://static.wikia.nocookie.net/bleach/images/3/32/Ep133TitleCard.png/revision/latest/scale-to-width-down/480?cb=20211027050431&path-prefix=en",
+          "title": "Ikkaku's Hot-Blooded Kendo Tale",
+          "originalAirdate": "July 11, 2007",
+          "englishAirdate": "July 11, 2009",
+          "type": "Filler",
+          "id": 134
+        },
+        {
+          "episode": 134,
+          "card": "https://static.wikia.nocookie.net/bleach/images/a/a0/Ep134TitleCard.png/revision/latest/scale-to-width-down/480?cb=20211111011629&path-prefix=en",
+          "title": "The Beautiful Patissier, Yumichika!",
+          "originalAirdate": "July 18, 2007",
+          "englishAirdate": "July 18, 2009",
+          "type": "Filler",
+          "id": 135
+        },
+        {
+          "episode": 135,
+          "card": "https://static.wikia.nocookie.net/bleach/images/6/61/Ep135TitleCard.png/revision/latest/scale-to-width-down/480?cb=20211118022905&path-prefix=en",
+          "title": "Kon is Deceived! Rangiku on the Lookout..",
+          "originalAirdate": "July 25, 2007",
+          "englishAirdate": "July 18, 2009",
+          "type": "Filler",
+          "id": 136
+        },
+        {
+          "episode": 136,
+          "card": "https://static.wikia.nocookie.net/bleach/images/0/09/Ep136TitleCard.png/revision/latest/scale-to-width-down/480?cb=20211126042625&path-prefix=en",
+          "title": "Hueco Mundo civil war! Ulquiorra's death",
+          "originalAirdate": "August 8, 2007",
+          "englishAirdate": "July 25, 2009",
+          "type": "Filler",
+          "id": 137
+        },
+        {
+          "episode": 137,
+          "card": "https://static.wikia.nocookie.net/bleach/images/e/ee/Ep137TitleCard.png/revision/latest/scale-to-width-down/480?cb=20214802054149&path-prefix=en",
+          "title": "Battle of bad faith, Aizen's trap",
+          "originalAirdate": "August 22, 2007",
+          "englishAirdate": "July 25, 2009",
+          "type": "Filler",
+          "id": 138
+        },
+        {
+          "episode": 138,
+          "card": "https://static.wikia.nocookie.net/bleach/images/d/d9/Ep138TitleCard.png/revision/latest/scale-to-width-down/480?cb=20211215013354&path-prefix=en",
+          "title": "Second move of Hueco Mundo! Hitsugaya vs Yammy",
+          "originalAirdate": "August 29, 2007",
+          "englishAirdate": "August 1, 2009",
+          "type": "Normal",
+          "id": 139
+        },
+        {
+          "episode": 139,
+          "card": "https://static.wikia.nocookie.net/bleach/images/e/eb/Ep139TitleCard.png/revision/latest/scale-to-width-down/480?cb=20220113094800&path-prefix=en",
+          "title": "Ichigo vs. Grimmjow, 11 second battle!",
+          "originalAirdate": "September 5, 2007",
+          "englishAirdate": "August 1, 2009",
+          "type": "Normal",
+          "id": 140
+        },
+        {
+          "episode": 140,
+          "card": "https://static.wikia.nocookie.net/bleach/images/1/10/Ep140TitleCard.png/revision/latest/scale-to-width-down/480?cb=20220115092713&path-prefix=en",
+          "title": "Ulquiorra's Scheme, the Moment when the Sun Sets!",
+          "originalAirdate": "September 12, 2007",
+          "englishAirdate": "August 8, 2009",
+          "type": "Normal",
+          "id": 141
+        },
+        {
+          "episode": 141,
+          "card": "https://static.wikia.nocookie.net/bleach/images/1/1e/Ep141TitleCard.png/revision/latest/scale-to-width-down/480?cb=20220117082751&path-prefix=en",
+          "title": "Goodbye..., Kurosaki",
+          "originalAirdate": "September 19, 2007",
+          "englishAirdate": "August 8, 2009",
+          "type": "Normal",
+          "id": 142
+        },
+        {
+          "episode": 142,
+          "card": "https://static.wikia.nocookie.net/bleach/images/9/94/Ep142TitleCard.png/revision/latest/scale-to-width-down/480?cb=20220118095056&path-prefix=en",
+          "title": "Order! Forbid rescue of Orihime Inoue",
+          "originalAirdate": "September 26, 2007",
+          "englishAirdate": "August 15, 2009",
+          "type": "Normal",
+          "id": 143
+        },
+        {
+          "episode": 143,
+          "card": "https://static.wikia.nocookie.net/bleach/images/2/21/Ep143TitleCard.png/revision/latest/scale-to-width-down/480?cb=20220119001815&path-prefix=en",
+          "title": "Grimmjow Revived",
+          "originalAirdate": "October 3, 2007",
+          "englishAirdate": "August 15, 2009",
+          "type": "Normal",
+          "id": 144
+        },
+        {
+          "episode": 144,
+          "card": "https://static.wikia.nocookie.net/bleach/images/f/f5/Ep144TitleCard.png/revision/latest/scale-to-width-down/480?cb=20220213001953&path-prefix=en",
+          "title": "Ishida・Chad, the Quickening of a New Power",
+          "originalAirdate": "October 17, 2007",
+          "englishAirdate": "August 22, 2009",
+          "type": "Normal",
+          "id": 145
+        },
+        {
+          "episode": 145,
+          "card": "https://static.wikia.nocookie.net/bleach/images/3/3e/Ep145TitleCard.png/revision/latest/scale-to-width-down/480?cb=20220213201411&path-prefix=en",
+          "title": "The Espada Gather! Aizen's Royal Assembly",
+          "originalAirdate": "October 24, 2007",
+          "englishAirdate": "August 22, 2009",
+          "type": "Normal",
+          "id": 146
+        },
+        {
+          "episode": 146,
+          "card": "https://static.wikia.nocookie.net/bleach/images/a/a4/Ep146TitleCard.png/revision/latest/scale-to-width-down/480?cb=20220215105956&path-prefix=en",
+          "title": "Her Name is Nel! The Appearance of the Strange Arrancar",
+          "originalAirdate": "October 31, 2007",
+          "englishAirdate": "August 29, 2009",
+          "type": "Normal",
+          "id": 147
+        },
+        {
+          "episode": 147,
+          "card": "https://static.wikia.nocookie.net/bleach/images/3/37/Ep147TitleCard.png/revision/latest/scale-to-width-down/480?cb=20220227193515&path-prefix=en",
+          "title": "Forest of Menos! The Search for the Missing Rukia",
+          "originalAirdate": "November 7, 2007",
+          "englishAirdate": "September 12, 2009",
+          "type": "Filler",
+          "id": 148
+        },
+        {
+          "episode": 148,
+          "card": "https://static.wikia.nocookie.net/bleach/images/3/3a/Ep148TitleCard.png/revision/latest/scale-to-width-down/480?cb=20220301182811&path-prefix=en",
+          "title": "Ashido, the Shinigami Who Came from the Past",
+          "originalAirdate": "November 14, 2007",
+          "englishAirdate": "September 12, 2009",
+          "type": "Filler",
+          "id": 149
+        },
+        {
+          "episode": 149,
+          "card": "https://static.wikia.nocookie.net/bleach/images/8/8d/Ep149TitleCard.png/revision/latest/scale-to-width-down/480?cb=20220304224122&path-prefix=en",
+          "title": "Through the Crumbling Forest, a Million Menos",
+          "originalAirdate": "November 21, 2007",
+          "englishAirdate": "September 19, 2009",
+          "type": "Filler",
+          "id": 150
+        },
+        {
+          "episode": 150,
+          "card": "https://static.wikia.nocookie.net/bleach/images/f/fe/Ep150TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404053614&path-prefix=en",
+          "title": "Oath! Back Here Alive Again",
+          "originalAirdate": "November 28, 2007",
+          "englishAirdate": "September 19, 2009",
+          "type": "Normal",
+          "id": 151
+        },
+        {
+          "episode": 151,
+          "card": "https://static.wikia.nocookie.net/bleach/images/7/72/Ep151TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190128022013&path-prefix=en",
+          "title": "The Raging Storm! Encounter with the Dancing Arrancar",
+          "originalAirdate": "December 5, 2007",
+          "englishAirdate": "September 26, 2009",
+          "type": "Normal",
+          "id": 152
+        },
+        {
+          "episode": 152,
+          "card": "https://static.wikia.nocookie.net/bleach/images/c/c6/Ep152TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190128022207&path-prefix=en",
+          "title": "Ichigo Strikes Back! This is my Bankai",
+          "originalAirdate": "December 12, 2007",
+          "englishAirdate": "September 26, 2009",
+          "type": "Normal",
+          "id": 153
+        },
+        {
+          "episode": 153,
+          "card": "https://static.wikia.nocookie.net/bleach/images/a/a3/Ep153TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404054002&path-prefix=en",
+          "title": "The Devilish Research! Szayelaporro's Plan",
+          "originalAirdate": "December 19, 2007",
+          "englishAirdate": "October 3, 2009",
+          "type": "Normal",
+          "id": 154
+        },
+        {
+          "episode": 154,
+          "card": "https://static.wikia.nocookie.net/bleach/images/1/18/Ep154TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404054229&path-prefix=en",
+          "title": "Rukia and Kaien, the Sorrowful Reunion",
+          "originalAirdate": "December 26, 2007",
+          "englishAirdate": "October 3, 2009",
+          "type": "Normal",
+          "id": 155
+        },
+        {
+          "episode": 155,
+          "card": "https://static.wikia.nocookie.net/bleach/images/6/68/Ep155TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404054424&path-prefix=en",
+          "title": "Rukia Retaliates! Release the Desperate Kidō",
+          "originalAirdate": "January 9, 2008",
+          "englishAirdate": "October 10, 2009",
+          "type": "Normal",
+          "id": 156
+        },
+        {
+          "episode": 156,
+          "card": "https://static.wikia.nocookie.net/bleach/images/c/c6/Ep156TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404054714&path-prefix=en",
+          "title": "Ishida & Pesche, the United Attack of Friendship?",
+          "originalAirdate": "January 16, 2008",
+          "englishAirdate": "October 10, 2009",
+          "type": "Normal",
+          "id": 157
+        },
+        {
+          "episode": 157,
+          "card": "https://static.wikia.nocookie.net/bleach/images/5/53/Ep157TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404054924&path-prefix=en",
+          "title": "Ishida's Trump Card, the Cutter of Souls",
+          "originalAirdate": "January 23, 2008",
+          "englishAirdate": "October 17, 2009",
+          "type": "Normal",
+          "id": 158
+        },
+        {
+          "episode": 158,
+          "card": "https://static.wikia.nocookie.net/bleach/images/9/97/Ep158TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404055158&path-prefix=en",
+          "title": "Right Arm of the Giant, Left Arm of the Devil",
+          "originalAirdate": "January 30, 2008",
+          "englishAirdate": "October 17, 2009",
+          "type": "Normal",
+          "id": 159
+        },
+        {
+          "episode": 159,
+          "card": "https://static.wikia.nocookie.net/bleach/images/e/e2/Ep159TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190128022111&path-prefix=en",
+          "title": "Yasutora Sado dies! Orihime's Tears",
+          "originalAirdate": "February 6, 2008",
+          "englishAirdate": "October 24, 2009",
+          "type": "Normal",
+          "id": 160
+        },
+        {
+          "episode": 160,
+          "card": "https://static.wikia.nocookie.net/bleach/images/6/6d/Ep160TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190128022240&path-prefix=en",
+          "title": "Testament, Your Heart is Right Here...",
+          "originalAirdate": "February 13, 2008",
+          "englishAirdate": "October 24, 2009",
+          "type": "Normal",
+          "id": 161
+        },
+        {
+          "episode": 161,
+          "card": "https://static.wikia.nocookie.net/bleach/images/8/84/Ep161TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404055506&path-prefix=en",
+          "title": "The Cruel Arrancar, Ulquiorra's Provocation",
+          "originalAirdate": "February 20, 2008",
+          "englishAirdate": "October 31, 2009",
+          "type": "Normal",
+          "id": 162
+        },
+        {
+          "episode": 162,
+          "card": "https://static.wikia.nocookie.net/bleach/images/5/5d/Ep162TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404055725&path-prefix=en",
+          "title": "Szayelaporro Laughs, The Net Trapping Renji is Complete",
+          "originalAirdate": "February 27, 2008",
+          "englishAirdate": "October 31, 2009",
+          "type": "Normal",
+          "id": 163
+        },
+        {
+          "episode": 163,
+          "card": "https://static.wikia.nocookie.net/bleach/images/a/a6/Ep163TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190128062105&path-prefix=en",
+          "title": "Shinigami and Quincy, the Battle of Madness",
+          "originalAirdate": "March 5, 2008",
+          "englishAirdate": "November 7, 2009",
+          "type": "Normal",
+          "id": 164
+        },
+        {
+          "episode": 164,
+          "card": "https://static.wikia.nocookie.net/bleach/images/9/9a/Ep164TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190128062130&path-prefix=en",
+          "title": "Ishida's Strategy, the 20-second Offense and Defense",
+          "originalAirdate": "March 12, 2008",
+          "englishAirdate": "November 7, 2009",
+          "type": "Normal",
+          "id": 165
+        },
+        {
+          "episode": 165,
+          "card": "https://static.wikia.nocookie.net/bleach/images/0/0c/Ep165TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190128062150&path-prefix=en",
+          "title": "Murderous Intent! The Joyful Grimmjow",
+          "originalAirdate": "March 19, 2008",
+          "englishAirdate": "November 14, 2009",
+          "type": "Normal",
+          "id": 166
+        },
+        {
+          "episode": 166,
+          "card": "https://static.wikia.nocookie.net/bleach/images/7/73/Ep166TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404060009&path-prefix=en",
+          "title": "Desperate Effort vs. Desperate Effort! The Hollowfied Ichigo",
+          "originalAirdate": "April 9, 2008",
+          "englishAirdate": "November 14, 2009",
+          "type": "Normal",
+          "id": 167
+        },
+        {
+          "episode": 167,
+          "card": "https://static.wikia.nocookie.net/bleach/images/d/d7/Ep167TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404060328&path-prefix=en",
+          "title": "The Moment of Conclusion, the End of Grimmjow",
+          "originalAirdate": "April 16, 2008",
+          "englishAirdate": "November 21, 2009",
+          "type": "Normal",
+          "id": 168
+        },
+        {
+          "episode": 168,
+          "card": "https://static.wikia.nocookie.net/bleach/images/4/41/Ep168TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190128062217&path-prefix=en",
+          "title": "The New Captain Appears! His Name is Shūsuke Amagai",
+          "originalAirdate": "April 23, 2008",
+          "englishAirdate": "August 29, 2010",
+          "type": "Filler",
+          "id": 169
+        },
+        {
+          "episode": 169,
+          "card": "https://static.wikia.nocookie.net/bleach/images/e/e7/Ep169TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404061521&path-prefix=en",
+          "title": "New Development, the Dangerous Transfer Student Appears!",
+          "originalAirdate": "May 7, 2008",
+          "englishAirdate": "September 5, 2010",
+          "type": "Filler",
+          "id": 170
+        },
+        {
+          "episode": 170,
+          "card": "https://static.wikia.nocookie.net/bleach/images/4/41/Ep170TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404061946&path-prefix=en",
+          "title": "Desperate Struggle Under the Moonlit Night, the Mysterious Assassin and Zanpakutō",
+          "originalAirdate": "May 14, 2008",
+          "englishAirdate": "September 12, 2010",
+          "type": "Filler",
+          "id": 171
+        },
+        {
+          "episode": 171,
+          "card": "https://static.wikia.nocookie.net/bleach/images/4/44/Ep171TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404062843&path-prefix=en",
+          "title": "The Profusion of Blooming Crimson Flowers",
+          "originalAirdate": "May 21, 2008",
+          "englishAirdate": "September 19, 2010",
+          "type": "Filler",
+          "id": 172
+        },
+        {
+          "episode": 172,
+          "card": "https://static.wikia.nocookie.net/bleach/images/1/18/Ep172TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404064412&path-prefix=en",
+          "title": "Kibune Goes to War! The Violent Wind that Rages",
+          "originalAirdate": "May 28, 2008",
+          "englishAirdate": "September 26, 2010",
+          "type": "Filler",
+          "id": 173
+        },
+        {
+          "episode": 173,
+          "card": "https://static.wikia.nocookie.net/bleach/images/c/ce/Ep173TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190128063846&path-prefix=en",
+          "title": "The Appearance of the Great Evil! The Darkness in the House of Kasumiōji",
+          "originalAirdate": "June 4, 2008",
+          "englishAirdate": "October 3, 2010",
+          "type": "Filler",
+          "id": 174
+        },
+        {
+          "episode": 174,
+          "card": "https://static.wikia.nocookie.net/bleach/images/5/5c/Ep174TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404064729&path-prefix=en",
+          "title": "Break the Mirror's Boundary! Ichigo's Captivity",
+          "originalAirdate": "June 11, 2008",
+          "englishAirdate": "October 10, 2010",
+          "type": "Filler",
+          "id": 175
+        },
+        {
+          "episode": 175,
+          "card": "https://static.wikia.nocookie.net/bleach/images/2/2a/Ep175TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404065034&path-prefix=en",
+          "title": "The Revenging Assassin, Ichigo is Targeted",
+          "originalAirdate": "June 18, 2008",
+          "englishAirdate": "October 17, 2010",
+          "type": "Filler",
+          "id": 176
+        },
+        {
+          "episode": 176,
+          "card": "https://static.wikia.nocookie.net/bleach/images/e/ee/Ep176TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404065328&path-prefix=en",
+          "title": "Mystery! The Sword-Consuming Assassin",
+          "originalAirdate": "June 25, 2008",
+          "englishAirdate": "October 24, 2010",
+          "type": "Filler",
+          "id": 177
+        },
+        {
+          "episode": 177,
+          "card": "https://static.wikia.nocookie.net/bleach/images/f/fe/Ep177TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404065624&path-prefix=en",
+          "title": "The Reversal of Rukia, the Rampaging Blade",
+          "originalAirdate": "June 25, 2008",
+          "englishAirdate": "October 31, 2010",
+          "type": "Filler",
+          "id": 178
+        },
+        {
+          "episode": 178,
+          "card": "https://static.wikia.nocookie.net/bleach/images/4/4b/Ep178TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404065909&path-prefix=en",
+          "title": "The Nightmare Which is Shown, Ichigo's Inside the Mirror",
+          "originalAirdate": "July 2, 2008",
+          "englishAirdate": "November 7, 2010",
+          "type": "Filler",
+          "id": 179
+        },
+        {
+          "episode": 179,
+          "card": "https://static.wikia.nocookie.net/bleach/images/e/e8/Ep179TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404070251&path-prefix=en",
+          "title": "Confrontation?! Amagai vs. Gotei 13",
+          "originalAirdate": "July 9, 2008",
+          "englishAirdate": "November 14, 2010",
+          "type": "Filler",
+          "id": 180
+        },
+        {
+          "episode": 180,
+          "card": "https://static.wikia.nocookie.net/bleach/images/3/38/Ep180TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190128063910&path-prefix=en",
+          "title": "The Princess' Decision, the Sorrowful Bride",
+          "originalAirdate": "July 16, 2008",
+          "englishAirdate": "November 21, 2010",
+          "type": "Filler",
+          "id": 181
+        },
+        {
+          "episode": 181,
+          "card": "https://static.wikia.nocookie.net/bleach/images/8/85/Ep181TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190128063933&path-prefix=en",
+          "title": "The 2nd Division Sorties! Ichigo is Surrounded",
+          "originalAirdate": "July 23, 2008",
+          "englishAirdate": "November 28, 2010",
+          "type": "Filler",
+          "id": 182
+        },
+        {
+          "episode": 182,
+          "card": "https://static.wikia.nocookie.net/bleach/images/e/e0/Ep182TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190128064001&path-prefix=en",
+          "title": "Amagai's True Strength, Zanpakutō is released!",
+          "originalAirdate": "July 30, 2008",
+          "englishAirdate": "December 5, 2010",
+          "type": "Filler",
+          "id": 183
+        },
+        {
+          "episode": 183,
+          "card": "https://static.wikia.nocookie.net/bleach/images/7/72/Ep183TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190128064026&path-prefix=en",
+          "title": "The Darkness Which Moves! Kibune's True Colors",
+          "originalAirdate": "August 6, 2008",
+          "englishAirdate": "December 12, 2010",
+          "type": "Filler",
+          "id": 184
+        },
+        {
+          "episode": 184,
+          "card": "https://static.wikia.nocookie.net/bleach/images/f/f7/Ep184TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190128193332&path-prefix=en",
+          "title": "Kira and Kibune, Offense and Defense of 3rd Division",
+          "originalAirdate": "August 20, 2008",
+          "englishAirdate": "December 19, 2010",
+          "type": "Filler",
+          "id": 185
+        },
+        {
+          "episode": 185,
+          "card": "https://static.wikia.nocookie.net/bleach/images/0/08/Ep185TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190128193356&path-prefix=en",
+          "title": "Ice and Flame! Fierce Fight of Amagai vs. Hitsugaya",
+          "originalAirdate": "August 27, 2008",
+          "englishAirdate": "January 2, 2011",
+          "type": "Filler",
+          "id": 186
+        },
+        {
+          "episode": 186,
+          "card": "https://static.wikia.nocookie.net/bleach/images/f/fe/Ep186TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190128193420&path-prefix=en",
+          "title": "Sortie Orders! Suppress the House of Kasumiōji",
+          "originalAirdate": "September 3, 2008",
+          "englishAirdate": "January 9, 2011",
+          "type": "Filler",
+          "id": 187
+        },
+        {
+          "episode": 187,
+          "card": "https://static.wikia.nocookie.net/bleach/images/d/d7/Ep187TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190128193442&path-prefix=en",
+          "title": "Ichigo Rages! The Assassin's Secret",
+          "originalAirdate": "September 10, 2008",
+          "englishAirdate": "January 16, 2011",
+          "type": "Filler",
+          "id": 188
+        },
+        {
+          "episode": 188,
+          "card": "https://static.wikia.nocookie.net/bleach/images/9/93/Ep188TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190128193510&path-prefix=en",
+          "title": "Duel! Amagai vs. Ichigo",
+          "originalAirdate": "September 17, 2008",
+          "englishAirdate": "January 23, 2011",
+          "type": "Filler",
+          "id": 189
+        },
+        {
+          "episode": 189,
+          "card": "https://static.wikia.nocookie.net/bleach/images/9/98/Ep189TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404070635&path-prefix=en",
+          "title": "The Fallen Shinigami's Pride",
+          "originalAirdate": "October 7, 2008",
+          "englishAirdate": "January 30, 2011",
+          "type": "Filler",
+          "id": 190
+        },
+        {
+          "episode": 190,
+          "card": "https://static.wikia.nocookie.net/bleach/images/7/7a/Ep190TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404070814&path-prefix=en",
+          "title": "Hueco Mundo Chapter, Restart!",
+          "originalAirdate": "October 14, 2008",
+          "englishAirdate": "February 6, 2011",
+          "type": "Normal",
+          "id": 191
+        },
+        {
+          "episode": 191,
+          "card": "https://static.wikia.nocookie.net/bleach/images/2/22/Ep191TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404071344&path-prefix=en",
+          "title": "The Frightening Banquet, Szayelaporro Theater",
+          "originalAirdate": "October 21, 2008",
+          "englishAirdate": "February 13, 2011",
+          "type": "Normal",
+          "id": 192
+        },
+        {
+          "episode": 192,
+          "card": "https://static.wikia.nocookie.net/bleach/images/5/5f/Ep192TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404071557&path-prefix=en",
+          "title": "Nel's Secret, a Big-Breasted Beauty Joins the Battle!?",
+          "originalAirdate": "October 28, 2008",
+          "englishAirdate": "February 20, 2011",
+          "type": "Normal",
+          "id": 193
+        },
+        {
+          "episode": 193,
+          "card": "https://static.wikia.nocookie.net/bleach/images/1/15/Ep193TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404071803&path-prefix=en",
+          "title": "Irresistible, Puppet Show of Terror",
+          "originalAirdate": "November 4, 2008",
+          "englishAirdate": "February 27, 2011",
+          "type": "Normal",
+          "id": 194
+        },
+        {
+          "episode": 194,
+          "card": "https://static.wikia.nocookie.net/bleach/images/1/13/Ep194TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404072801&path-prefix=en",
+          "title": "Nelliel's Past",
+          "originalAirdate": "November 11, 2008",
+          "englishAirdate": "March 06, 2011",
+          "type": "Normal",
+          "id": 195
+        },
+        {
+          "episode": 195,
+          "card": "https://static.wikia.nocookie.net/bleach/images/6/68/Ep195TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190128195903&path-prefix=en",
+          "title": "The Ultimate Union! Pesche's Seriousness",
+          "originalAirdate": "November 18, 2008",
+          "englishAirdate": "March 13, 2011",
+          "type": "Normal",
+          "id": 196
+        },
+        {
+          "episode": 196,
+          "card": "https://static.wikia.nocookie.net/bleach/images/7/7c/Ep196TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190128195645&path-prefix=en",
+          "title": "Joining the Battle! The Strongest Shinigami Army Appears",
+          "originalAirdate": "November 25, 2008",
+          "englishAirdate": "March 20, 2011",
+          "type": "Normal",
+          "id": 197
+        },
+        {
+          "episode": 197,
+          "card": "https://static.wikia.nocookie.net/bleach/images/3/39/Ep197TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190128195738&path-prefix=en",
+          "title": "Byakuya's Bankai, the Quiet Anger",
+          "originalAirdate": "December 2, 2008",
+          "englishAirdate": "March 27, 2011",
+          "type": "Normal",
+          "id": 198
+        },
+        {
+          "episode": 198,
+          "card": "https://static.wikia.nocookie.net/bleach/images/2/2c/Ep198TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190128195808&path-prefix=en",
+          "title": "The Two Scientists, Mayuri's Trap",
+          "originalAirdate": "December 9, 2008",
+          "englishAirdate": "April 3, 2011",
+          "type": "Normal",
+          "id": 199
+        },
+        {
+          "episode": 199,
+          "card": "https://static.wikia.nocookie.net/bleach/images/d/d3/Ep199TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190128195829&path-prefix=en",
+          "title": "Holy Birth, the Resurrected Szayelaporro",
+          "originalAirdate": "December 16, 2008",
+          "englishAirdate": "April 10, 2011",
+          "type": "Normal",
+          "id": 200
+        },
+        {
+          "episode": 200,
+          "card": "https://static.wikia.nocookie.net/bleach/images/d/d8/Ep200TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404072952&path-prefix=en",
+          "title": "The Hardest Body!? Cut Down Nnoitra!",
+          "originalAirdate": "December 23, 2008",
+          "englishAirdate": "April 17, 2011",
+          "type": "Normal",
+          "id": 201
+        },
+        {
+          "episode": 201,
+          "card": "https://static.wikia.nocookie.net/bleach/images/8/8f/Ep201TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404073624&path-prefix=en",
+          "title": "Nnoitra Released! Multiplying Arms",
+          "originalAirdate": "January 06, 2009",
+          "englishAirdate": "April 24, 2011",
+          "type": "Normal",
+          "id": 202
+        },
+        {
+          "episode": 202,
+          "card": "https://static.wikia.nocookie.net/bleach/images/e/e5/Ep202TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404073933&path-prefix=en",
+          "title": "Fierce Fighting Conclusion! Who's the Strongest?",
+          "originalAirdate": "January 13, 2009",
+          "englishAirdate": "May 1, 2011",
+          "type": "Normal",
+          "id": 203
+        },
+        {
+          "episode": 203,
+          "card": "https://static.wikia.nocookie.net/bleach/images/8/8b/Ep203TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404074146&path-prefix=en",
+          "title": "Karakura Town Gathers! Aizen Versus Shinigami",
+          "originalAirdate": "January 20, 2009",
+          "englishAirdate": "May 8, 2011",
+          "type": "Normal",
+          "id": 204
+        },
+        {
+          "episode": 204,
+          "card": "https://static.wikia.nocookie.net/bleach/images/f/f4/Ep204TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404074313&path-prefix=en",
+          "title": "Ichigo's Stomach-cutting Persuasion Strategy",
+          "originalAirdate": "January 27, 2009",
+          "englishAirdate": "May 15, 2011",
+          "type": "Filler",
+          "id": 205
+        },
+        {
+          "episode": 205,
+          "card": "https://static.wikia.nocookie.net/bleach/images/7/75/Ep205TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404075123&path-prefix=en",
+          "title": "Thump! A Kemari Tournament Filled with Hollows",
+          "originalAirdate": "February 3, 2009",
+          "englishAirdate": "May 22, 2011",
+          "type": "Filler",
+          "id": 206
+        },
+        {
+          "episode": 206,
+          "card": "https://static.wikia.nocookie.net/bleach/images/5/53/Ep206TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404075243&path-prefix=en",
+          "title": "The Past Chapter Begins! The Truth from 110 Years Ago",
+          "originalAirdate": "February 10, 2009",
+          "englishAirdate": "May 29, 2011",
+          "type": "Expansion",
+          "id": 207
+        },
+        {
+          "episode": 207,
+          "card": "https://static.wikia.nocookie.net/bleach/images/e/e4/Ep207TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190128202426&path-prefix=en",
+          "title": "12th Division's New Captain, Urahara Kisuke",
+          "originalAirdate": "February 17, 2009",
+          "englishAirdate": "June 5, 2011",
+          "type": "Expansion",
+          "id": 208
+        },
+        {
+          "episode": 208,
+          "card": "https://static.wikia.nocookie.net/bleach/images/6/63/Ep208TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190128202449&path-prefix=en",
+          "title": "Aizen and the Genius Boy",
+          "originalAirdate": "February 24, 2009",
+          "englishAirdate": "June 12, 2011",
+          "type": "Normal",
+          "id": 209
+        },
+        {
+          "episode": 209,
+          "card": "https://static.wikia.nocookie.net/bleach/images/d/d5/Ep209TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190128202513&path-prefix=en",
+          "title": "Muguruma's 9th Division, Moves Out",
+          "originalAirdate": "March 3, 2009",
+          "englishAirdate": "June 19, 2011",
+          "type": "Normal",
+          "id": 210
+        },
+        {
+          "episode": 210,
+          "card": "https://static.wikia.nocookie.net/bleach/images/5/5e/Ep210TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190128202542&path-prefix=en",
+          "title": "Hiyori dies? The Beginning of Tragedy",
+          "originalAirdate": "March 10, 2009",
+          "englishAirdate": "June 26, 2011",
+          "type": "Normal",
+          "id": 211
+        },
+        {
+          "episode": 211,
+          "card": "https://static.wikia.nocookie.net/bleach/images/f/fe/Ep211TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190128204248&path-prefix=en",
+          "title": "Betrayal! Aizen's Secret Maneuvers",
+          "originalAirdate": "March 17, 2009",
+          "englishAirdate": "July 3, 2011",
+          "type": "Normal",
+          "id": 212
+        },
+        {
+          "episode": 212,
+          "card": "https://static.wikia.nocookie.net/bleach/images/0/07/Ep212TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190128204336&path-prefix=en",
+          "title": "Rescue Hirako! Aizen vs. Urahara",
+          "originalAirdate": "March 24, 2009",
+          "englishAirdate": "July 10, 2011",
+          "type": "Normal",
+          "id": 213
+        },
+        {
+          "episode": 213,
+          "card": "https://static.wikia.nocookie.net/bleach/images/c/cf/Ep213TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404075438&path-prefix=en",
+          "title": "The Soul Burial Detective, Karakuraizer is Born",
+          "originalAirdate": "March 31, 2009",
+          "englishAirdate": "July 17, 2011",
+          "type": "Filler",
+          "id": 214
+        },
+        {
+          "episode": 214,
+          "card": "https://static.wikia.nocookie.net/bleach/images/2/2c/Ep214TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404075904&path-prefix=en",
+          "title": "Karakuraizer's Last Day",
+          "originalAirdate": "April 7, 2009",
+          "englishAirdate": "July 24, 2011",
+          "type": "Filler",
+          "id": 215
+        },
+        {
+          "episode": 215,
+          "card": "https://static.wikia.nocookie.net/bleach/images/7/7c/Ep215TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404080043&path-prefix=en",
+          "title": "Defend Karakura Town! Entire Appearance of the Shinigami",
+          "originalAirdate": "April 14, 2009",
+          "englishAirdate": "July 31, 2011",
+          "type": "Normal",
+          "id": 216
+        },
+        {
+          "episode": 216,
+          "card": "https://static.wikia.nocookie.net/bleach/images/9/9c/Ep216TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190128204403&path-prefix=en",
+          "title": "Elite! The Four Shinigami",
+          "originalAirdate": "April 21, 2009",
+          "englishAirdate": "August 7, 2011",
+          "type": "Normal",
+          "id": 217
+        },
+        {
+          "episode": 217,
+          "card": "https://static.wikia.nocookie.net/bleach/images/c/c7/Ep217TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404080300&path-prefix=en",
+          "title": "Beautiful Little Devil Charlotte",
+          "originalAirdate": "April 28, 2009",
+          "englishAirdate": "August 14, 2011",
+          "type": "Normal",
+          "id": 218
+        },
+        {
+          "episode": 218,
+          "card": "https://static.wikia.nocookie.net/bleach/images/8/8c/Ep218TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404080832&path-prefix=en",
+          "title": "Kira, The Battle Within Despair",
+          "originalAirdate": "May 5, 2009",
+          "englishAirdate": "August 21, 2011",
+          "type": "Normal",
+          "id": 219
+        },
+        {
+          "episode": 219,
+          "card": "https://static.wikia.nocookie.net/bleach/images/5/5b/Ep219TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404081115&path-prefix=en",
+          "title": "Hisagi's Shikai! The Name is...",
+          "originalAirdate": "May 12, 2009",
+          "englishAirdate": "August 28, 2011",
+          "type": "Normal",
+          "id": 220
+        },
+        {
+          "episode": 220,
+          "card": "https://static.wikia.nocookie.net/bleach/images/8/8d/Ep220TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404081302&path-prefix=en",
+          "title": "Ikkaku Falls! The Shinigami's Crisis",
+          "originalAirdate": "May 19, 2009",
+          "englishAirdate": "September 4, 2011",
+          "type": "Normal",
+          "id": 221
+        },
+        {
+          "episode": 221,
+          "card": "https://static.wikia.nocookie.net/bleach/images/9/9c/Ep221TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404082149&path-prefix=en",
+          "title": "The Full Showdown! Shinigami vs. Espada",
+          "originalAirdate": "May 26, 2009",
+          "englishAirdate": "September 11, 2011",
+          "type": "Normal",
+          "id": 222
+        },
+        {
+          "episode": 222,
+          "card": "https://static.wikia.nocookie.net/bleach/images/e/ec/Ep222TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190128211432&path-prefix=en",
+          "title": "The Most Evil Tag!? Suì-Fēng & Ōmaeda",
+          "originalAirdate": "June 2, 2009",
+          "englishAirdate": "September 18, 2011",
+          "type": "Normal",
+          "id": 223
+        },
+        {
+          "episode": 223,
+          "card": "https://static.wikia.nocookie.net/bleach/images/c/cc/Ep223TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404082337&path-prefix=en",
+          "title": "A Miraculous Body! Ggio Releases",
+          "originalAirdate": "June 9, 2009",
+          "englishAirdate": "September 25, 2011",
+          "type": "Normal",
+          "id": 224
+        },
+        {
+          "episode": 224,
+          "card": "https://static.wikia.nocookie.net/bleach/images/e/eb/Ep224TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404082508&path-prefix=en",
+          "title": "3 vs. 1 Battle! Rangiku's Crisis",
+          "originalAirdate": "June 16, 2009",
+          "englishAirdate": "October 2, 2011",
+          "type": "Normal",
+          "id": 225
+        },
+        {
+          "episode": 225,
+          "card": "https://static.wikia.nocookie.net/bleach/images/c/ca/Ep225TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404082802&path-prefix=en",
+          "title": "All Lieutenants Annihilated! The Terrifying Demonic Beast",
+          "originalAirdate": "June 23, 2009",
+          "englishAirdate": "October 9, 2011",
+          "type": "Normal",
+          "id": 226
+        },
+        {
+          "episode": 226,
+          "card": "https://static.wikia.nocookie.net/bleach/images/e/ef/Ep226TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404082938&path-prefix=en",
+          "title": "Fierce Fighting Concludes? Towards a New Battle!",
+          "originalAirdate": "June 30, 2009",
+          "englishAirdate": "October 16, 2011",
+          "type": "Normal",
+          "id": 227
+        },
+        {
+          "episode": 227,
+          "card": "https://static.wikia.nocookie.net/bleach/images/3/30/Ep227TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404083121&path-prefix=en",
+          "title": "Wonderful Error",
+          "originalAirdate": "July 7, 2009",
+          "englishAirdate": "October 23, 2011",
+          "type": "Normal",
+          "id": 228
+        },
+        {
+          "episode": 228,
+          "card": "https://static.wikia.nocookie.net/bleach/images/2/29/Ep228TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190128211456&path-prefix=en",
+          "title": "Summer! Sea! Swimsuit Festival!!",
+          "originalAirdate": "July 14, 2009",
+          "englishAirdate": "October 30, 2011",
+          "type": "Filler",
+          "id": 229
+        },
+        {
+          "episode": 229,
+          "card": "https://static.wikia.nocookie.net/bleach/images/f/fa/Ep229TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404083501&path-prefix=en",
+          "title": "Cry of the Soul? The Rug Shinigami is Born!",
+          "originalAirdate": "July 21, 2009",
+          "englishAirdate": "November 6, 2011",
+          "type": "Filler",
+          "id": 230
+        },
+        {
+          "episode": 230,
+          "card": "https://static.wikia.nocookie.net/bleach/images/c/cc/Ep230TitleCard.png/revision/latest/scale-to-width-down/480?cb=20090729020534&path-prefix=en",
+          "title": "A New Enemy! The Materialization of Zanpakutō",
+          "originalAirdate": "July 28, 2009",
+          "englishAirdate": "November 13, 2011",
+          "type": "Filler",
+          "id": 231
+        },
+        {
+          "episode": 231,
+          "card": "https://static.wikia.nocookie.net/bleach/images/4/44/Ep231TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190128211525&path-prefix=en",
+          "title": "Byakuya, Disappearing with the Cherry Blossoms",
+          "originalAirdate": "August 4, 2009",
+          "englishAirdate": "November 20, 2011",
+          "type": "Filler",
+          "id": 232
+        },
+        {
+          "episode": 232,
+          "card": "https://static.wikia.nocookie.net/bleach/images/0/02/Ep232TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190128211545&path-prefix=en",
+          "title": "Sode no Shirayuki vs. Rukia! Delusion of the Heart",
+          "originalAirdate": "August 11, 2009",
+          "englishAirdate": "November 27, 2011",
+          "type": "Filler",
+          "id": 233
+        },
+        {
+          "episode": 233,
+          "card": "https://static.wikia.nocookie.net/bleach/images/f/f8/Ep233TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190128211611&path-prefix=en",
+          "title": "Zangetsu Becomes an Enemy",
+          "originalAirdate": "August 18, 2009",
+          "englishAirdate": "December 4, 2011",
+          "type": "Filler",
+          "id": 234
+        },
+        {
+          "episode": 234,
+          "card": "https://static.wikia.nocookie.net/bleach/images/6/6d/Ep234TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190128211636&path-prefix=en",
+          "title": "Renji Surprised?! The Two Zabimaru",
+          "originalAirdate": "August 25, 2009",
+          "englishAirdate": "December 11, 2011",
+          "type": "Filler",
+          "id": 235
+        },
+        {
+          "episode": 235,
+          "card": "https://static.wikia.nocookie.net/bleach/images/5/52/Ep235TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190128211659&path-prefix=en",
+          "title": "Clash! Hisagi vs. Kazeshini",
+          "originalAirdate": "September 1, 2009",
+          "englishAirdate": "December 18, 2011",
+          "type": "Filler",
+          "id": 236
+        },
+        {
+          "episode": 236,
+          "card": "https://static.wikia.nocookie.net/bleach/images/d/d1/Ep236TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190128211718&path-prefix=en",
+          "title": "Release! The New Getsuga Tenshō",
+          "originalAirdate": "September 8, 2009",
+          "englishAirdate": "January 8, 2012",
+          "type": "Filler",
+          "id": 237
+        },
+        {
+          "episode": 237,
+          "card": "https://static.wikia.nocookie.net/bleach/images/4/4d/Ep237TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190128211739&path-prefix=en",
+          "title": "Suì-Fēng, Surround the Zanpakutō",
+          "originalAirdate": "September 15, 2009",
+          "englishAirdate": "January 15, 2012",
+          "type": "Filler",
+          "id": 238
+        },
+        {
+          "episode": 238,
+          "card": "https://static.wikia.nocookie.net/bleach/images/b/b1/Ep238TitleCard.png/revision/latest/scale-to-width-down/480?cb=20130907163619&path-prefix=en",
+          "title": "Friendship? Hatred? Haineko & Tobiume",
+          "originalAirdate": "September 22, 2009",
+          "englishAirdate": "January 22, 2012",
+          "type": "Filler",
+          "id": 239
+        },
+        {
+          "episode": 239,
+          "card": "https://static.wikia.nocookie.net/bleach/images/a/ae/Ep239TitleCard.png/revision/latest/scale-to-width-down/480?cb=20130908230817&path-prefix=en",
+          "title": "The Awakening Hyōrinmaru! Hitsugaya's Fierce Fight",
+          "originalAirdate": "September 29, 2009",
+          "englishAirdate": "January 29, 2012",
+          "type": "Filler",
+          "id": 240
+        },
+        {
+          "episode": 240,
+          "card": "https://static.wikia.nocookie.net/bleach/images/0/01/Ep240TitleCard.png/revision/latest/scale-to-width-down/480?cb=20130915015024&path-prefix=en",
+          "title": "Byakuya's Betrayal",
+          "originalAirdate": "October 06, 2009",
+          "englishAirdate": "February 12, 2012",
+          "type": "Filler",
+          "id": 241
+        },
+        {
+          "episode": 241,
+          "card": "https://static.wikia.nocookie.net/bleach/images/f/ff/Ep241TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190128211816&path-prefix=en",
+          "title": "For the Sake of Pride! Byakuya vs. Renji",
+          "originalAirdate": "October 13, 2009",
+          "englishAirdate": "February 19, 2012",
+          "type": "Filler",
+          "id": 242
+        },
+        {
+          "episode": 242,
+          "card": "https://static.wikia.nocookie.net/bleach/images/1/1b/Ep242TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190128211854&path-prefix=en",
+          "title": "Shinigami and Zanpakutō, Total Sortie",
+          "originalAirdate": "October 20, 2009",
+          "englishAirdate": "February 26, 2012",
+          "type": "Filler",
+          "id": 243
+        },
+        {
+          "episode": 243,
+          "card": "https://static.wikia.nocookie.net/bleach/images/4/45/Ep243TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190128211915&path-prefix=en",
+          "title": "One-on-one! Ichigo vs. Senbonzakura",
+          "originalAirdate": "October 27, 2009",
+          "englishAirdate": "March 4, 2012",
+          "type": "Filler",
+          "id": 244
+        },
+        {
+          "episode": 244,
+          "card": "https://static.wikia.nocookie.net/bleach/images/4/48/Ep244TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404084956&path-prefix=en",
+          "title": "The long awaited... Kenpachi appears!",
+          "originalAirdate": "November 03, 2009",
+          "englishAirdate": "March 11, 2012",
+          "type": "Filler",
+          "id": 245
+        },
+        {
+          "episode": 245,
+          "card": "https://static.wikia.nocookie.net/bleach/images/a/af/Ep245TitleCard.png/revision/latest/scale-to-width-down/480?cb=20131005174734&path-prefix=en",
+          "title": "Pursue Byakuya! The Confused Gotei Divisions",
+          "originalAirdate": "November 10, 2009",
+          "englishAirdate": "March 18, 2012",
+          "type": "Filler",
+          "id": 246
+        },
+        {
+          "episode": 246,
+          "card": "https://static.wikia.nocookie.net/bleach/images/3/32/Ep246TitleCard.png/revision/latest/scale-to-width-down/480?cb=20131007082853&path-prefix=en",
+          "title": "Special Mission! Rescue Captain-Commander Yamamoto!",
+          "originalAirdate": "November 17, 2009",
+          "englishAirdate": "March 25, 2012",
+          "type": "Filler",
+          "id": 247
+        },
+        {
+          "episode": 247,
+          "card": "https://static.wikia.nocookie.net/bleach/images/e/eb/Ep247TitleCard.png/revision/latest/scale-to-width-down/480?cb=20131048040342&path-prefix=en",
+          "title": "Deceived Shinigami! The World Collapse Crisis",
+          "originalAirdate": "November 24, 2009",
+          "englishAirdate": "April 1, 2012",
+          "type": "Filler",
+          "id": 248
+        },
+        {
+          "episode": 248,
+          "card": "https://static.wikia.nocookie.net/bleach/images/b/ba/Ep248TitleCard.png/revision/latest/scale-to-width-down/480?cb=20131013155650&path-prefix=en",
+          "title": "Dragon of Ice and Dragon of Flame! The Strongest Showdown!",
+          "originalAirdate": "December 1, 2009",
+          "englishAirdate": "April 8, 2012",
+          "type": "Filler",
+          "id": 249
+        },
+        {
+          "episode": 249,
+          "card": "https://static.wikia.nocookie.net/bleach/images/4/45/Ep249TitleCard.png/revision/latest/scale-to-width-down/480?cb=20480819142710&path-prefix=en",
+          "title": "Senbonzakura's Bankai! Offense and Defense of the Living World",
+          "originalAirdate": "December 8, 2009",
+          "englishAirdate": "April 15, 2012",
+          "type": "Filler",
+          "id": 250
+        },
+        {
+          "episode": 250,
+          "card": "https://static.wikia.nocookie.net/bleach/images/8/81/Ep250TitleCard.png/revision/latest/scale-to-width-down/480?cb=20131017013908&path-prefix=en",
+          "title": "That Man, For the Sake of the Kuchiki",
+          "originalAirdate": "December 15, 2009",
+          "englishAirdate": "April 22, 2012",
+          "type": "Filler",
+          "id": 251
+        },
+        {
+          "episode": 251,
+          "card": "https://static.wikia.nocookie.net/bleach/images/7/73/Ep251TitleCard.png/revision/latest/scale-to-width-down/480?cb=20131023001950&path-prefix=en",
+          "title": "Dark History! The Worst Shinigami is Born",
+          "originalAirdate": "December 22, 2009",
+          "englishAirdate": "April 29, 2012",
+          "type": "Filler",
+          "id": 252
+        },
+        {
+          "episode": 252,
+          "card": "https://static.wikia.nocookie.net/bleach/images/5/53/Ep252TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404104739&path-prefix=en",
+          "title": "Byakuya, the Truth Behind his Betrayal",
+          "originalAirdate": "January 5, 2010",
+          "englishAirdate": "May 6, 2012",
+          "type": "Filler",
+          "id": 253
+        },
+        {
+          "episode": 253,
+          "card": "https://static.wikia.nocookie.net/bleach/images/c/c2/Ep253TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404104804&path-prefix=en",
+          "title": "Muramasa's True Identity Revealed",
+          "originalAirdate": "January 12, 2010",
+          "englishAirdate": "May 13, 2012",
+          "type": "Filler",
+          "id": 254
+        },
+        {
+          "episode": 254,
+          "card": "https://static.wikia.nocookie.net/bleach/images/6/6e/Ep254TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404104826&path-prefix=en",
+          "title": "Byakuya and Renji, the 6th Division Returns",
+          "originalAirdate": "January 19, 2010",
+          "englishAirdate": "May 20, 2012",
+          "type": "Filler",
+          "id": 255
+        },
+        {
+          "episode": 255,
+          "card": "https://static.wikia.nocookie.net/bleach/images/d/da/Ep255TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404104858&path-prefix=en",
+          "title": "Final Chapter·Zanpakutō Unknown Tales",
+          "originalAirdate": "January 26, 2010",
+          "englishAirdate": "May 27, 2012",
+          "type": "Filler",
+          "id": 256
+        },
+        {
+          "episode": 256,
+          "card": "https://static.wikia.nocookie.net/bleach/images/7/7e/Ep256TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404104920&path-prefix=en",
+          "title": "Byakuya's anger, collapse of the Kuchiki family",
+          "originalAirdate": "February 2, 2010",
+          "englishAirdate": "June 3, 2012",
+          "type": "Filler",
+          "id": 257
+        },
+        {
+          "episode": 257,
+          "card": "https://static.wikia.nocookie.net/bleach/images/a/aa/Ep257TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404104942&path-prefix=en",
+          "title": "A New Enemy! The True Nature of the Beast Swords",
+          "originalAirdate": "February 9, 2010",
+          "englishAirdate": "June 10, 2012",
+          "type": "Filler",
+          "id": 258
+        },
+        {
+          "episode": 258,
+          "card": "https://static.wikia.nocookie.net/bleach/images/7/71/Ep258TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404105012&path-prefix=en",
+          "title": "Stray Snake, Tortured Monkey",
+          "originalAirdate": "February 16, 2010",
+          "englishAirdate": "June 17, 2012",
+          "type": "Filler",
+          "id": 259
+        },
+        {
+          "episode": 259,
+          "card": "https://static.wikia.nocookie.net/bleach/images/1/19/Ep259TitleCard.png/revision/latest/scale-to-width-down/480?cb=20131124053412&path-prefix=en",
+          "title": "Terror! The Monster That Lurks Underground",
+          "originalAirdate": "February 23, 2010",
+          "englishAirdate": "June 24, 2012",
+          "type": "Filler",
+          "id": 260
+        },
+        {
+          "episode": 260,
+          "card": "https://static.wikia.nocookie.net/bleach/images/6/60/Ep260TitleCard.png/revision/latest/scale-to-width-down/480?cb=20131128015909&path-prefix=en",
+          "title": "Conclusion?! Hisagi vs. Kazeshini",
+          "originalAirdate": "March 2, 2010",
+          "englishAirdate": "July 1, 2012",
+          "type": "Filler",
+          "id": 261
+        },
+        {
+          "episode": 261,
+          "card": "https://static.wikia.nocookie.net/bleach/images/9/90/Ep261TitleCard.png/revision/latest/scale-to-width-down/480?cb=20131215015145&path-prefix=en",
+          "title": "The Person with the Unknown Ability! Orihime is Targeted",
+          "originalAirdate": "March 9, 2010",
+          "englishAirdate": "July 8, 2012",
+          "type": "Filler",
+          "id": 262
+        },
+        {
+          "episode": 262,
+          "card": "https://static.wikia.nocookie.net/bleach/images/7/74/Ep262TitleCard.png/revision/latest/scale-to-width-down/480?cb=20131217061028&path-prefix=en",
+          "title": "The Tragic Sword Fiend! Haineko Cries!",
+          "originalAirdate": "March 16, 2010",
+          "englishAirdate": "July 15, 2012",
+          "type": "Filler",
+          "id": 263
+        },
+        {
+          "episode": 263,
+          "card": "https://static.wikia.nocookie.net/bleach/images/1/1b/Ep263TitleCard.png/revision/latest/scale-to-width-down/480?cb=20131229222526&path-prefix=en",
+          "title": "Imprisonment?! Senbonzakura & Zabimaru",
+          "originalAirdate": "March 23, 2010",
+          "englishAirdate": "July 22, 2012",
+          "type": "Filler",
+          "id": 264
+        },
+        {
+          "episode": 264,
+          "card": "https://static.wikia.nocookie.net/bleach/images/3/31/Ep264TitleCard.png/revision/latest/scale-to-width-down/480?cb=20140116064545&path-prefix=en",
+          "title": "Battle of the Females? Katen Kyōkotsu vs. Nanao!",
+          "originalAirdate": "March 30, 2010",
+          "englishAirdate": "July 29, 2012",
+          "type": "Filler",
+          "id": 265
+        },
+        {
+          "episode": 265,
+          "card": "https://static.wikia.nocookie.net/bleach/images/c/c9/Ep265TitleCard.png/revision/latest/scale-to-width-down/480?cb=20140480042601&path-prefix=en",
+          "title": "Evolution?! The Menace of the Final Sword Fiend",
+          "originalAirdate": "April 6, 2010",
+          "englishAirdate": "August 5, 2012",
+          "type": "Filler",
+          "id": 266
+        },
+        {
+          "episode": 266,
+          "card": "https://static.wikia.nocookie.net/bleach/images/8/80/Ep266TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404112805&path-prefix=en",
+          "title": "Ichigo VS Ulquiorra, Restart!",
+          "originalAirdate": "April 13, 2010",
+          "englishAirdate": "August 12, 2012",
+          "type": "Normal",
+          "id": 267
+        },
+        {
+          "episode": 267,
+          "card": "https://static.wikia.nocookie.net/bleach/images/1/16/Ep267TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404113111&path-prefix=en",
+          "title": "Connected Hearts! The Left Fist Prepared for Death!",
+          "originalAirdate": "April 20, 2010",
+          "englishAirdate": "August 19, 2012",
+          "type": "Normal",
+          "id": 268
+        },
+        {
+          "episode": 268,
+          "card": "https://static.wikia.nocookie.net/bleach/images/1/1f/Ep268TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404113257&path-prefix=en",
+          "title": "Hatred and Jealousy, Orihime's Dilemma",
+          "originalAirdate": "April 27, 2010",
+          "englishAirdate": "August 26, 2012",
+          "type": "Normal",
+          "id": 269
+        },
+        {
+          "episode": 269,
+          "card": "https://static.wikia.nocookie.net/bleach/images/1/12/Ep269TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404113503&path-prefix=en",
+          "title": "Ichigo and Uryū, Bonded Back to Back",
+          "originalAirdate": "May 4, 2010",
+          "englishAirdate": "September 2, 2012",
+          "type": "Normal",
+          "id": 270
+        },
+        {
+          "episode": 270,
+          "card": "https://static.wikia.nocookie.net/bleach/images/b/b9/Ep270TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404113841&path-prefix=en",
+          "title": "Beginning of Despair...Ichigo, the Unreachable Blade",
+          "originalAirdate": "May 11, 2010",
+          "englishAirdate": "September 9, 2012",
+          "type": "Normal",
+          "id": 271
+        },
+        {
+          "episode": 271,
+          "card": "https://static.wikia.nocookie.net/bleach/images/9/92/Ep271TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404114442&path-prefix=en",
+          "title": "Ichigo Dies! Orihime, the Cry of Sorrow!",
+          "originalAirdate": "May 18, 2010",
+          "englishAirdate": "September 16, 2012",
+          "type": "Normal",
+          "id": 272
+        },
+        {
+          "episode": 272,
+          "card": "https://static.wikia.nocookie.net/bleach/images/e/ed/Ep272TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404114636&path-prefix=en",
+          "title": "Ichigo vs. Ulquiorra, Conclusion!",
+          "originalAirdate": "May 25, 2010",
+          "englishAirdate": "September 23, 2012",
+          "type": "Normal",
+          "id": 273
+        },
+        {
+          "episode": 273,
+          "card": "https://static.wikia.nocookie.net/bleach/images/4/42/Ep273TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404114927&path-prefix=en",
+          "title": "Fury of the Shark! Harribel Releases",
+          "originalAirdate": "June 1, 2010",
+          "englishAirdate": "September 30, 2012",
+          "type": "Normal",
+          "id": 274
+        },
+        {
+          "episode": 274,
+          "card": "https://static.wikia.nocookie.net/bleach/images/8/8d/Ep274TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404115332&path-prefix=en",
+          "title": "Hitsugaya, the Suicidal Frozen Heavens Hundred Flowers Funeral!",
+          "originalAirdate": "June 8, 2010",
+          "englishAirdate": "October 7, 2012",
+          "type": "Normal",
+          "id": 275
+        },
+        {
+          "episode": 275,
+          "card": "https://static.wikia.nocookie.net/bleach/images/6/6c/Ep275TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404115543&path-prefix=en",
+          "title": "The Approaching Breath of Death, the King Who Rules Over Death!",
+          "originalAirdate": "June 15, 2010",
+          "englishAirdate": "October 14, 2012",
+          "type": "Normal",
+          "id": 276
+        },
+        {
+          "episode": 276,
+          "card": "https://static.wikia.nocookie.net/bleach/images/1/13/Ep276TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404115803&path-prefix=en",
+          "title": "One Hit Kill, Suì-Fēng, Bankai!",
+          "originalAirdate": "June 22, 2010",
+          "englishAirdate": "October 21, 2012",
+          "type": "Normal",
+          "id": 277
+        },
+        {
+          "episode": 277,
+          "card": "https://static.wikia.nocookie.net/bleach/images/f/f8/Ep277TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404480154&path-prefix=en",
+          "title": "Climax! Kyōraku vs. Starrk!",
+          "originalAirdate": "June 29, 2010",
+          "englishAirdate": "October 28, 2012",
+          "type": "Normal",
+          "id": 278
+        },
+        {
+          "episode": 278,
+          "card": "https://static.wikia.nocookie.net/bleach/images/b/b1/Ep278TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404480405&path-prefix=en",
+          "title": "The Nightmare Returns...Revival of the Espada",
+          "originalAirdate": "July 6, 2010",
+          "englishAirdate": "November 4, 2012",
+          "type": "Normal",
+          "id": 279
+        },
+        {
+          "episode": 279,
+          "card": "https://static.wikia.nocookie.net/bleach/images/3/39/Ep279TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404480648&path-prefix=en",
+          "title": "Hirako and Aizen...the Reunion of Fate!",
+          "originalAirdate": "July 13, 2010",
+          "englishAirdate": "November 11, 2012",
+          "type": "Normal",
+          "id": 280
+        },
+        {
+          "episode": 280,
+          "card": "https://static.wikia.nocookie.net/bleach/images/2/25/Ep280TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404480944&path-prefix=en",
+          "title": "Hisagi and Tōsen, the Moment of Parting",
+          "originalAirdate": "July 20, 2010",
+          "englishAirdate": "November 18, 2012",
+          "type": "Normal",
+          "id": 281
+        },
+        {
+          "episode": 281,
+          "card": "https://static.wikia.nocookie.net/bleach/images/e/e1/Ep281TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404122129&path-prefix=en",
+          "title": "Crown of Lies, Baraggan's Grudge",
+          "originalAirdate": "July 27, 2010",
+          "englishAirdate": "November 25, 2012",
+          "type": "Normal",
+          "id": 282
+        },
+        {
+          "episode": 282,
+          "card": "https://static.wikia.nocookie.net/bleach/images/8/86/Ep282TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404122153&path-prefix=en",
+          "title": "Power of the Soul! Los Lobos, Attack!",
+          "originalAirdate": "August 3, 2010",
+          "englishAirdate": "January 27, 2013",
+          "type": "Normal",
+          "id": 283
+        },
+        {
+          "episode": 283,
+          "card": "https://static.wikia.nocookie.net/bleach/images/d/d8/Ep283TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404122724&path-prefix=en",
+          "title": "Starrk, the Lone Battle",
+          "originalAirdate": "August 10, 2010",
+          "englishAirdate": "February 3, 2013",
+          "type": "Normal",
+          "id": 284
+        },
+        {
+          "episode": 284,
+          "card": "https://static.wikia.nocookie.net/bleach/images/9/90/Ep284TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404123010&path-prefix=en",
+          "title": "Chain of Sacrifice...Harribel's Past",
+          "originalAirdate": "August 17, 2010",
+          "englishAirdate": "February 10, 2013",
+          "type": "Expansion",
+          "id": 285
+        },
+        {
+          "episode": 285,
+          "card": "https://static.wikia.nocookie.net/bleach/images/a/af/Ep285TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404123205&path-prefix=en",
+          "title": "The Hundred-Year Grudge...Hiyori's Revenge",
+          "originalAirdate": "August 24, 2010",
+          "englishAirdate": "February 17, 2013",
+          "type": "Normal",
+          "id": 286
+        },
+        {
+          "episode": 286,
+          "card": "https://static.wikia.nocookie.net/bleach/images/7/7a/Ep286TitleScreen.png/revision/latest/scale-to-width-down/480?cb=20190404123741&path-prefix=en",
+          "title": "Protect Karakura Town! Ichigo, towards the Real World!",
+          "originalAirdate": "August 31, 2010",
+          "englishAirdate": "February 24, 2013",
+          "type": "Normal",
+          "id": 287
+        },
+        {
+          "episode": 287,
+          "card": "https://static.wikia.nocookie.net/bleach/images/0/0a/Ep287TitleScreen.png/revision/latest/scale-to-width-down/480?cb=20190404124657&path-prefix=en",
+          "title": "Side Story...Ichigo and the Magic Lamp",
+          "originalAirdate": "September 7, 2010",
+          "englishAirdate": "March 3, 2013",
+          "type": "Filler",
+          "id": 288
+        },
+        {
+          "episode": 288,
+          "card": "https://static.wikia.nocookie.net/bleach/images/6/61/Ep288TitleScreen.png/revision/latest/scale-to-width-down/480?cb=20190404124935&path-prefix=en",
+          "title": "The Final Trump Card! Ichigo, Towards the Decisive Battle",
+          "originalAirdate": "September 14, 2010",
+          "englishAirdate": "March 10, 2013",
+          "type": "Normal",
+          "id": 289
+        },
+        {
+          "episode": 289,
+          "card": "https://static.wikia.nocookie.net/bleach/images/f/f6/Ep289TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404125231&path-prefix=en",
+          "title": "Byakuya vs. Kenpachi?! The Melee Commences",
+          "originalAirdate": "September 21, 2010",
+          "englishAirdate": "March 17, 2013",
+          "type": "Normal",
+          "id": 290
+        },
+        {
+          "episode": 290,
+          "card": "https://static.wikia.nocookie.net/bleach/images/9/91/Ep290TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404125541&path-prefix=en",
+          "title": "For the Sake of Justice?! The Man Who Deserted the Shinigami",
+          "originalAirdate": "September 28, 2010",
+          "englishAirdate": "March 24, 2013",
+          "type": "Normal",
+          "id": 291
+        },
+        {
+          "episode": 291,
+          "card": "https://static.wikia.nocookie.net/bleach/images/6/60/Ep291TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404141047&path-prefix=en",
+          "title": "Desperate Struggle with Aizen! Hirako, Shikai!",
+          "originalAirdate": "October 5, 2010",
+          "englishAirdate": "March 31, 2013",
+          "type": "Normal",
+          "id": 292
+        },
+        {
+          "episode": 292,
+          "card": "https://static.wikia.nocookie.net/bleach/images/c/c3/Ep292TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404141547&path-prefix=en",
+          "title": "All Out War! Aizen vs. Shinigami",
+          "originalAirdate": "October 12, 2010",
+          "englishAirdate": "April 7, 2013",
+          "type": "Normal",
+          "id": 293
+        },
+        {
+          "episode": 293,
+          "card": "https://static.wikia.nocookie.net/bleach/images/5/53/Ep293TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404141728&path-prefix=en",
+          "title": "Hitsugaya, Enraged! Blade of Hatred!",
+          "originalAirdate": "October 19, 2010",
+          "englishAirdate": "April 14, 2013",
+          "type": "Normal",
+          "id": 294
+        },
+        {
+          "episode": 294,
+          "card": "https://static.wikia.nocookie.net/bleach/images/8/87/Ep294TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404141843&path-prefix=en",
+          "title": "Impossible to Attack? The Sealed Genryūsai!",
+          "originalAirdate": "October 26, 2010",
+          "englishAirdate": "April 21, 2013",
+          "type": "Normal",
+          "id": 295
+        },
+        {
+          "episode": 295,
+          "card": "https://static.wikia.nocookie.net/bleach/images/7/7e/Ep295TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404141955&path-prefix=en",
+          "title": "It's All A Trap...Engineered Bonds!",
+          "originalAirdate": "November 2, 2010",
+          "englishAirdate": "April 28, 2013",
+          "type": "Normal",
+          "id": 296
+        },
+        {
+          "episode": 296,
+          "card": "https://static.wikia.nocookie.net/bleach/images/d/d7/Ep296TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404142124&path-prefix=en",
+          "title": "The Shocking Truth...The Mysterious Power Within Ichigo!",
+          "originalAirdate": "November 9, 2010",
+          "englishAirdate": "May 5, 2013",
+          "type": "Normal",
+          "id": 297
+        },
+        {
+          "episode": 297,
+          "card": "https://static.wikia.nocookie.net/bleach/images/5/5c/Ep297TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404142237&path-prefix=en",
+          "title": "The Extending Blade?! Ichigo vs. Gin!",
+          "originalAirdate": "November 16, 2010",
+          "englishAirdate": "May 12, 2013",
+          "type": "Normal",
+          "id": 298
+        },
+        {
+          "episode": 298,
+          "card": "https://static.wikia.nocookie.net/bleach/images/b/b5/Ep298TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404142350&path-prefix=en",
+          "title": "‎Film! Festival! Shinigami Film Festival!",
+          "originalAirdate": "November 23, 2010",
+          "englishAirdate": "May 19, 2013",
+          "type": "Filler",
+          "id": 299
+        },
+        {
+          "episode": 299,
+          "card": "https://static.wikia.nocookie.net/bleach/images/5/57/Ep299TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404142502&path-prefix=en",
+          "title": "Theatre Opening Commemoration! Hell Chapter・Prologue",
+          "originalAirdate": "November 30, 2010",
+          "englishAirdate": "May 26, 2013",
+          "type": "Filler",
+          "id": 300
+        },
+        {
+          "episode": 300,
+          "card": "https://static.wikia.nocookie.net/bleach/images/0/0d/Ep300TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404142634&path-prefix=en",
+          "title": "Urahara Appears! Stop Aizen!",
+          "originalAirdate": "December 7, 2010",
+          "englishAirdate": "June 2, 2013",
+          "type": "Normal",
+          "id": 301
+        },
+        {
+          "episode": 301,
+          "card": "https://static.wikia.nocookie.net/bleach/images/9/93/Ep301TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404142753&path-prefix=en",
+          "title": "Ichigo Loses His Fighting Spirit!? Gin's Expectation!",
+          "originalAirdate": "December 14, 2010",
+          "englishAirdate": "June 9, 2013",
+          "type": "Normal",
+          "id": 302
+        },
+        {
+          "episode": 302,
+          "card": "https://static.wikia.nocookie.net/bleach/images/c/c0/Ep302TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404142948&path-prefix=en",
+          "title": "The Final Getsuga Tenshō!? Ichigo's Training!",
+          "originalAirdate": "December 21, 2010",
+          "englishAirdate": "June 16, 2013",
+          "type": "Normal",
+          "id": 303
+        },
+        {
+          "episode": 303,
+          "card": "https://static.wikia.nocookie.net/bleach/images/2/20/Ep303TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404143108&path-prefix=en",
+          "title": "Real World and Shinigami! The New Year Special!",
+          "originalAirdate": "January 4, 2011",
+          "englishAirdate": "June 23, 2013",
+          "type": "Filler",
+          "id": 304
+        },
+        {
+          "episode": 304,
+          "card": "https://static.wikia.nocookie.net/bleach/images/b/be/Ep304TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404143214&path-prefix=en",
+          "title": "Gaiden Again! This Time's Enemy Is A Monster?",
+          "originalAirdate": "January 11, 2011",
+          "englishAirdate": "June 30, 2013",
+          "type": "Filler",
+          "id": 305
+        },
+        {
+          "episode": 305,
+          "card": "https://static.wikia.nocookie.net/bleach/images/d/d2/Ep305TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404143345&path-prefix=en",
+          "title": "Delusion Roars! Hisagi, Towards the Hot Springs Inn!",
+          "originalAirdate": "January 18, 2011",
+          "englishAirdate": "July 7, 2013",
+          "type": "Filler",
+          "id": 306
+        },
+        {
+          "episode": 306,
+          "card": "https://static.wikia.nocookie.net/bleach/images/8/88/Ep306TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404143502&path-prefix=en",
+          "title": "For the Sake of Protecting! Ichigo vs. Tensa Zangetsu!",
+          "originalAirdate": "January 25, 2011",
+          "englishAirdate": "July 14, 2013",
+          "type": "Normal",
+          "id": 307
+        },
+        {
+          "episode": 307,
+          "card": "https://static.wikia.nocookie.net/bleach/images/c/ce/Ep307TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404143648&path-prefix=en",
+          "title": "Emergency Situation! Aizen, New Evolution!",
+          "originalAirdate": "February 1, 2011",
+          "englishAirdate": "July 21, 2013",
+          "type": "Normal",
+          "id": 308
+        },
+        {
+          "episode": 308,
+          "card": "https://static.wikia.nocookie.net/bleach/images/1/13/Ep308TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404143818&path-prefix=en",
+          "title": "Sayonara...Rangiku",
+          "originalAirdate": "February 8, 2011",
+          "englishAirdate": "July 28, 2013",
+          "type": "Normal",
+          "id": 309
+        },
+        {
+          "episode": 309,
+          "card": "https://static.wikia.nocookie.net/bleach/images/6/60/Ep309TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190220064527&path-prefix=en",
+          "title": "Fierce Fighting Conclusion! Release, the Final Getsuga Tenshō!",
+          "originalAirdate": "February 15, 2011",
+          "englishAirdate": "August 4, 2013",
+          "type": "Normal",
+          "id": 310
+        },
+        {
+          "episode": 310,
+          "card": "https://static.wikia.nocookie.net/bleach/images/8/8d/Ep310TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404143941&path-prefix=en",
+          "title": "Ichigo's Resolution! The Price of the Fierce Battle",
+          "originalAirdate": "February 22, 2011",
+          "englishAirdate": "August 11, 2013",
+          "type": "Normal",
+          "id": 311
+        },
+        {
+          "episode": 311,
+          "card": "https://static.wikia.nocookie.net/bleach/images/b/ba/Ep311TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190220210912&path-prefix=en",
+          "title": "The Soul Detective ・ Karakuraizer Takes Off Again!",
+          "originalAirdate": "March 1, 2011",
+          "englishAirdate": "August 18, 2013",
+          "type": "Filler",
+          "id": 312
+        },
+        {
+          "episode": 312,
+          "card": "https://static.wikia.nocookie.net/bleach/images/7/7b/Ep312TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404144049&path-prefix=en",
+          "title": "Inauguration! The Brand New 2nd Division Captain!",
+          "originalAirdate": "March 8, 2011",
+          "englishAirdate": "August 25, 2013",
+          "type": "Filler",
+          "id": 313
+        },
+        {
+          "episode": 313,
+          "card": "https://static.wikia.nocookie.net/bleach/images/c/c6/Ep313TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404144237&path-prefix=en",
+          "title": "The Man Who Risks His Life in the 11th Division!",
+          "originalAirdate": "March 15, 2011",
+          "englishAirdate": "September 8, 2013",
+          "type": "Filler",
+          "id": 314
+        },
+        {
+          "episode": 314,
+          "card": "https://static.wikia.nocookie.net/bleach/images/f/f3/Ep314TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404144401&path-prefix=en",
+          "title": "Kon is Seen! Secret of a Beautiful Office Lady",
+          "originalAirdate": "March 22, 2011",
+          "englishAirdate": "September 15, 2013",
+          "type": "Filler",
+          "id": 315
+        },
+        {
+          "episode": 315,
+          "card": "https://static.wikia.nocookie.net/bleach/images/a/a7/Ep315TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404144524&path-prefix=en",
+          "title": "Yachiru's Friend! The Shinigami of Justice Appears!",
+          "originalAirdate": "March 29, 2011",
+          "englishAirdate": "September 22, 2013",
+          "type": "Filler",
+          "id": 316
+        },
+        {
+          "episode": 316,
+          "card": "https://static.wikia.nocookie.net/bleach/images/a/a9/Ep316TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404144651&path-prefix=en",
+          "title": "Tōshirō Hitsugaya's Holiday!",
+          "originalAirdate": "April 5, 2011",
+          "englishAirdate": "September 29, 2013",
+          "type": "Filler",
+          "id": 317
+        },
+        {
+          "episode": 317,
+          "card": "https://static.wikia.nocookie.net/bleach/images/2/2a/Ep317TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404145248&path-prefix=en",
+          "title": "Unusual Incident in Seireitei?! Gotei 13 Invading Army Arc!",
+          "originalAirdate": "April 12, 2011",
+          "englishAirdate": "October 6, 2013",
+          "type": "Filler",
+          "id": 318
+        },
+        {
+          "episode": 318,
+          "card": "https://static.wikia.nocookie.net/bleach/images/b/be/Ep318TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404145456&path-prefix=en",
+          "title": "Renji vs. Rukia?! Battle With Comrades!",
+          "originalAirdate": "April 19, 2011",
+          "englishAirdate": "October 13, 2013",
+          "type": "Filler",
+          "id": 319
+        },
+        {
+          "episode": 319,
+          "card": "https://static.wikia.nocookie.net/bleach/images/e/e8/Ep319TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404145712&path-prefix=en",
+          "title": "Ichigo's Capture Net! Escape From Soul Society!",
+          "originalAirdate": "April 26, 2011",
+          "englishAirdate": "October 20, 2013",
+          "type": "Filler",
+          "id": 320
+        },
+        {
+          "episode": 320,
+          "card": "https://static.wikia.nocookie.net/bleach/images/f/f2/Ep320TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404150053&path-prefix=en",
+          "title": "Gotei 13, Gathering in the Real World!",
+          "originalAirdate": "May 3, 2011",
+          "englishAirdate": "October 27, 2013",
+          "type": "Filler",
+          "id": 321
+        },
+        {
+          "episode": 321,
+          "card": "https://static.wikia.nocookie.net/bleach/images/7/74/Ep321TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404150334&path-prefix=en",
+          "title": "Showdown of Mutual Self, Ikkaku vs. Ikkaku!",
+          "originalAirdate": "May 10, 2011",
+          "englishAirdate": "November 3, 2013",
+          "type": "Filler",
+          "id": 322
+        },
+        {
+          "episode": 322,
+          "card": "https://static.wikia.nocookie.net/bleach/images/b/bf/Ep322TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404150608&path-prefix=en",
+          "title": "Clash! Rukia vs. Rukia!",
+          "originalAirdate": "May 17, 2011",
+          "englishAirdate": "November 10, 2013",
+          "type": "Filler",
+          "id": 323
+        },
+        {
+          "episode": 323,
+          "card": "https://static.wikia.nocookie.net/bleach/images/6/68/Ep323TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404151331&path-prefix=en",
+          "title": "Protect Ichigo! Nozomi's Determination",
+          "originalAirdate": "May 24, 2011",
+          "englishAirdate": "November 17, 2013",
+          "type": "Filler",
+          "id": 324
+        },
+        {
+          "episode": 324,
+          "card": "https://static.wikia.nocookie.net/bleach/images/0/01/Ep324TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404151602&path-prefix=en",
+          "title": "Recapture Seireitei! The Captains Move!",
+          "originalAirdate": "May 31, 2011",
+          "englishAirdate": "November 24, 2013",
+          "type": "Filler",
+          "id": 325
+        },
+        {
+          "episode": 325,
+          "card": "https://static.wikia.nocookie.net/bleach/images/6/6e/Ep325TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404151812&path-prefix=en",
+          "title": "For the Sake of the Believers! Byakuya vs. Hitsugaya!",
+          "originalAirdate": "June 7, 2011",
+          "englishAirdate": "December 1, 2013",
+          "type": "Filler",
+          "id": 326
+        },
+        {
+          "episode": 326,
+          "card": "https://static.wikia.nocookie.net/bleach/images/7/7a/Ep326TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404152447&path-prefix=en",
+          "title": "The Two Hinamoris, Hitsugaya's Resolution",
+          "originalAirdate": "June 14, 2011",
+          "englishAirdate": "January 5, 2014",
+          "type": "Filler",
+          "id": 327
+        },
+        {
+          "episode": 327,
+          "card": "https://static.wikia.nocookie.net/bleach/images/0/04/Ep327TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404152752&path-prefix=en",
+          "title": "Pride of the Kuchiki Family! Byakuya vs. Byakuya!",
+          "originalAirdate": "June 21, 2011",
+          "englishAirdate": "January 12, 2014",
+          "type": "Filler",
+          "id": 328
+        },
+        {
+          "episode": 328,
+          "card": "https://static.wikia.nocookie.net/bleach/images/7/75/Ep328TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404153004&path-prefix=en",
+          "title": "Defeat Kagerōza! Shinigami, All-Out War!",
+          "originalAirdate": "June 28, 2011",
+          "englishAirdate": "January 19, 2014",
+          "type": "Filler",
+          "id": 329
+        },
+        {
+          "episode": 329,
+          "card": "https://static.wikia.nocookie.net/bleach/images/c/c8/Ep329TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404153334&path-prefix=en",
+          "title": "The Forbidden Research...Nozomi's Hidden Secret!",
+          "originalAirdate": "July 5, 2011",
+          "englishAirdate": "January 26, 2014",
+          "type": "Filler",
+          "id": 330
+        },
+        {
+          "episode": 330,
+          "card": "https://static.wikia.nocookie.net/bleach/images/e/e4/Ep330TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404153651&path-prefix=en",
+          "title": "I Want to Live...! Nozomi's Zanpakutō",
+          "originalAirdate": "July 12, 2011",
+          "englishAirdate": "February 2, 2014",
+          "type": "Filler",
+          "id": 331
+        },
+        {
+          "episode": 331,
+          "card": "https://static.wikia.nocookie.net/bleach/images/1/11/Ep331TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404153952&path-prefix=en",
+          "title": "For the Sake of Fighting! The Awakening Nozomi!",
+          "originalAirdate": "July 19, 2011",
+          "englishAirdate": "February 9, 2014",
+          "type": "Filler",
+          "id": 332
+        },
+        {
+          "episode": 332,
+          "card": "https://static.wikia.nocookie.net/bleach/images/5/5e/Ep332TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404154332&path-prefix=en",
+          "title": "The Most Evil Reigai, Appears in the Real World!",
+          "originalAirdate": "July 26, 2011",
+          "englishAirdate": "February 16, 2014",
+          "type": "Filler",
+          "id": 333
+        },
+        {
+          "episode": 333,
+          "card": "https://static.wikia.nocookie.net/bleach/images/4/40/Ep333TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404154657&path-prefix=en",
+          "title": "Destroy Nozomi?! Genryūsai's Decision",
+          "originalAirdate": "August 2, 2011",
+          "englishAirdate": "February 23, 2014",
+          "type": "Filler",
+          "id": 334
+        },
+        {
+          "episode": 334,
+          "card": "https://static.wikia.nocookie.net/bleach/images/b/b5/Ep334TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190225082050&path-prefix=en",
+          "title": "The Depleting Reiatsu! Ichigo, Death Struggle of the Soul",
+          "originalAirdate": "August 9, 2011",
+          "englishAirdate": "March 2, 2014",
+          "type": "Filler",
+          "id": 335
+        },
+        {
+          "episode": 335,
+          "card": "https://static.wikia.nocookie.net/bleach/images/c/c1/Ep335TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404154934&path-prefix=en",
+          "title": "Hiding in the Dangai? Ichigo is Alone?!",
+          "originalAirdate": "August 16, 2011",
+          "englishAirdate": "March 9, 2014",
+          "type": "Filler",
+          "id": 336
+        },
+        {
+          "episode": 336,
+          "card": "https://static.wikia.nocookie.net/bleach/images/6/6a/Ep336TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404155911&path-prefix=en",
+          "title": "Pursue Kagerōza! Technological Development Department, Infiltration!",
+          "originalAirdate": "August 23, 2011",
+          "englishAirdate": "March 16, 2014",
+          "type": "Filler",
+          "id": 337
+        },
+        {
+          "episode": 337,
+          "card": "https://static.wikia.nocookie.net/bleach/images/e/e1/Ep337TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404160326&path-prefix=en",
+          "title": "The Developer of the Modified Souls",
+          "originalAirdate": "August 30, 2011",
+          "englishAirdate": "March 23, 2014",
+          "type": "Filler",
+          "id": 338
+        },
+        {
+          "episode": 338,
+          "card": "https://static.wikia.nocookie.net/bleach/images/f/f9/Ep338TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404160608&path-prefix=en",
+          "title": "Kon's Thoughts, Nozomi's Thoughts",
+          "originalAirdate": "September 6, 2011",
+          "englishAirdate": "March 30, 2014",
+          "type": "Filler",
+          "id": 339
+        },
+        {
+          "episode": 339,
+          "card": "https://static.wikia.nocookie.net/bleach/images/9/9a/Ep339TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404160954&path-prefix=en",
+          "title": "Protect Ichigo! The Bonds of Friends!",
+          "originalAirdate": "September 13, 2011",
+          "englishAirdate": "April 6, 2014",
+          "type": "Filler",
+          "id": 340
+        },
+        {
+          "episode": 340,
+          "card": "https://static.wikia.nocookie.net/bleach/images/7/7e/Ep340TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404161211&path-prefix=en",
+          "title": "Reigai vs. Original, The Fierce Fighting for Gambled Pride!",
+          "originalAirdate": "September 20, 2011",
+          "englishAirdate": "April 13, 2014",
+          "type": "Filler",
+          "id": 341
+        },
+        {
+          "episode": 341,
+          "card": "https://static.wikia.nocookie.net/bleach/images/f/fa/Ep341TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404161401&path-prefix=en",
+          "title": "Invading Army Arc, Final Conclusion!",
+          "originalAirdate": "September 27, 2011",
+          "englishAirdate": "April 20, 2014",
+          "type": "Filler",
+          "id": 342
+        },
+        {
+          "episode": 342,
+          "card": "https://static.wikia.nocookie.net/bleach/images/f/f9/Ep342TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190404161659&path-prefix=en",
+          "title": "Thank You",
+          "originalAirdate": "October 4, 2011",
+          "englishAirdate": "April 27, 2014",
+          "type": "Expansion",
+          "id": 343
+        },
+        {
+          "episode": 343,
+          "card": "https://static.wikia.nocookie.net/bleach/images/9/9d/Ep343TitleCard.png/revision/latest/scale-to-width-down/480?cb=20111011124030&path-prefix=en",
+          "title": "3rd Year High School Student! Dressed Up, and a New Chapter Begins!",
+          "originalAirdate": "October 11, 2011",
+          "englishAirdate": "May 4, 2014",
+          "type": "Normal",
+          "id": 344
+        },
+        {
+          "episode": 344,
+          "card": "https://static.wikia.nocookie.net/bleach/images/1/1d/Ep344TitleCard.png/revision/latest/scale-to-width-down/480?cb=20111018104607&path-prefix=en",
+          "title": "A Dispute in School?! Ichigo and Uryū, Fight Together!",
+          "originalAirdate": "October 18, 2011",
+          "englishAirdate": "May 11, 2014",
+          "type": "Normal",
+          "id": 345
+        },
+        {
+          "episode": 345,
+          "card": "https://static.wikia.nocookie.net/bleach/images/3/30/Ep345TitleCard.png/revision/latest/scale-to-width-down/480?cb=20111025141231&path-prefix=en",
+          "title": "Uryū is Attacked, A Threat Draws Near the Friends!",
+          "originalAirdate": "October 25, 2011",
+          "englishAirdate": "May 18, 2014",
+          "type": "Normal",
+          "id": 346
+        },
+        {
+          "episode": 346,
+          "card": "https://static.wikia.nocookie.net/bleach/images/4/49/Episode346Title.png/revision/latest/scale-to-width-down/480?cb=20111101103507&path-prefix=en",
+          "title": "The Fullbring User·Kūgo Ginjō",
+          "originalAirdate": "November 1, 2011",
+          "englishAirdate": "June 1, 2014",
+          "type": "Normal",
+          "id": 347
+        },
+        {
+          "episode": 347,
+          "card": "https://static.wikia.nocookie.net/bleach/images/b/b9/Episode347Title.png/revision/latest/scale-to-width-down/480?cb=20111108133542&path-prefix=en",
+          "title": "A Creeping Danger in the Kurosaki Family?! Ichigo's Confusion!",
+          "originalAirdate": "November 8, 2011",
+          "englishAirdate": "June 8, 2014",
+          "type": "Expansion",
+          "id": 348
+        },
+        {
+          "episode": 348,
+          "card": "https://static.wikia.nocookie.net/bleach/images/4/40/Episode348Title.png/revision/latest/scale-to-width-down/480?cb=20111115111758&path-prefix=en",
+          "title": "Power of the Substitute Badge, Ichigo's Pride!",
+          "originalAirdate": "November 15, 2011",
+          "englishAirdate": "June 15, 2014",
+          "type": "Normal",
+          "id": 349
+        },
+        {
+          "episode": 349,
+          "card": "https://static.wikia.nocookie.net/bleach/images/0/0e/Episode349Title.png/revision/latest/scale-to-width-down/480?cb=20111122154943&path-prefix=en",
+          "title": "Next Target, The Devil's Hand Aims at Orihime!",
+          "originalAirdate": "November 22, 2011",
+          "englishAirdate": "June 22, 2014",
+          "type": "Normal",
+          "id": 350
+        },
+        {
+          "episode": 350,
+          "card": "https://static.wikia.nocookie.net/bleach/images/9/97/Episode350TitlePage.png/revision/latest/scale-to-width-down/480?cb=20111129130834&path-prefix=en",
+          "title": "The Man Who Killed A Shinigami Substitute?! Tsukishima Makes His Move",
+          "originalAirdate": "November 29, 2011",
+          "englishAirdate": "June 29, 2014",
+          "type": "Normal",
+          "id": 351
+        },
+        {
+          "episode": 351,
+          "card": "https://static.wikia.nocookie.net/bleach/images/3/3c/Episode351Title.png/revision/latest/scale-to-width-down/480?cb=20114806155056&path-prefix=en",
+          "title": "Fullbring, The Detested Power!",
+          "originalAirdate": "December 6, 2011",
+          "englishAirdate": "July 13, 2014",
+          "type": "Expansion",
+          "id": 352
+        },
+        {
+          "episode": 352,
+          "card": "https://static.wikia.nocookie.net/bleach/images/8/89/Episode352Title.png/revision/latest/scale-to-width-down/480?cb=20111213140615&path-prefix=en",
+          "title": "Tsukishima Attacks! The Training Has Been Thwarted",
+          "originalAirdate": "December 13, 2011",
+          "englishAirdate": "July 20, 2014",
+          "type": "Normal",
+          "id": 353
+        },
+        {
+          "episode": 353,
+          "card": "https://static.wikia.nocookie.net/bleach/images/6/6f/Episode353Title.png/revision/latest/scale-to-width-down/480?cb=20111220141240&path-prefix=en",
+          "title": "Ichigo, Mastering the Fullbring!‎",
+          "originalAirdate": "December 20, 2011",
+          "englishAirdate": "July 27, 2014",
+          "type": "Normal",
+          "id": 354
+        },
+        {
+          "episode": 354,
+          "card": "https://static.wikia.nocookie.net/bleach/images/4/47/Episode_354_Title_slide.png/revision/latest/scale-to-width-down/480?cb=20111227170835&path-prefix=en",
+          "title": "Ichigo vs. Ginjō! To the Game's Space",
+          "originalAirdate": "December 27, 2011",
+          "englishAirdate": "August 3, 2014",
+          "type": "Normal",
+          "id": 355
+        },
+        {
+          "episode": 355,
+          "card": "https://static.wikia.nocookie.net/bleach/images/3/3c/Episode355Title.png/revision/latest/scale-to-width-down/480?cb=20480110173233&path-prefix=en",
+          "title": "The Shinigami Enter Battle! Seireitei Also Has a New Year Special!",
+          "originalAirdate": "January 10, 2012",
+          "englishAirdate": "August 10, 2014",
+          "type": "Filler",
+          "id": 356
+        },
+        {
+          "episode": 356,
+          "card": "https://static.wikia.nocookie.net/bleach/images/2/20/Episode356Title.png/revision/latest/scale-to-width-down/480?cb=20480117113016&path-prefix=en",
+          "title": "Foe or Friend?! Ginjō's Unseen Heart!",
+          "originalAirdate": "January 17, 2012",
+          "englishAirdate": "August 17, 2014",
+          "type": "Normal",
+          "id": 357
+        },
+        {
+          "episode": 357,
+          "card": "https://static.wikia.nocookie.net/bleach/images/6/6e/Episode357Title.png/revision/latest/scale-to-width-down/480?cb=20480124122549&path-prefix=en",
+          "title": "Creeping Menace...Tsukishima's Ability!",
+          "originalAirdate": "January 24, 2012",
+          "englishAirdate": "August 24, 2014",
+          "type": "Expansion",
+          "id": 358
+        },
+        {
+          "episode": 358,
+          "card": "https://static.wikia.nocookie.net/bleach/images/a/a4/Episode358Title.png/revision/latest/scale-to-width-down/480?cb=20480131112849&path-prefix=en",
+          "title": "Clash?! Xcution Attacks Ginjō",
+          "originalAirdate": "January 31, 2012",
+          "englishAirdate": "September 7, 2014",
+          "type": "Normal",
+          "id": 359
+        },
+        {
+          "episode": 359,
+          "card": "https://static.wikia.nocookie.net/bleach/images/8/88/359_Title.png/revision/latest/scale-to-width-down/480?cb=20480207203718&path-prefix=en",
+          "title": "The Sorrowful Battle! Ichigo vs. Sado & Orihime!",
+          "originalAirdate": "February 7, 2012",
+          "englishAirdate": "September 14, 2014",
+          "type": "Normal",
+          "id": 360
+        },
+        {
+          "episode": 360,
+          "card": "https://static.wikia.nocookie.net/bleach/images/c/c9/Episode360Title.png/revision/latest/scale-to-width-down/480?cb=20480214102347&path-prefix=en",
+          "title": "Ichigo vs Uryū?! Who is the Traitor?!",
+          "originalAirdate": "February 14, 2012",
+          "englishAirdate": "September 21, 2014",
+          "type": "Normal",
+          "id": 361
+        },
+        {
+          "episode": 361,
+          "card": "https://static.wikia.nocookie.net/bleach/images/e/e5/Episode361Title.png/revision/latest/scale-to-width-down/480?cb=20480221160318&path-prefix=en",
+          "title": "A New Appearance! Meet the Gotei 13!",
+          "originalAirdate": "February 21, 2012",
+          "englishAirdate": "September 28, 2014",
+          "type": "Normal",
+          "id": 362
+        },
+        {
+          "episode": 362,
+          "card": "https://static.wikia.nocookie.net/bleach/images/e/e3/Episode362Title.png/revision/latest/scale-to-width-down/480?cb=20480228150938&path-prefix=en",
+          "title": "Revival! Substitute Shinigami･Ichigo Kurosaki!",
+          "originalAirdate": "February 28, 2012",
+          "englishAirdate": "October 5, 2014",
+          "type": "Normal",
+          "id": 363
+        },
+        {
+          "episode": 363,
+          "card": "https://static.wikia.nocookie.net/bleach/images/5/5e/Ep363TitleCard.png/revision/latest/scale-to-width-down/480?cb=20190301195708&path-prefix=en",
+          "title": "Fierce Fight! Shinigami vs. XCUTION!",
+          "originalAirdate": "March 6, 2012",
+          "englishAirdate": "October 12, 2014",
+          "type": "Normal",
+          "id": 364
+        },
+        {
+          "episode": 364,
+          "card": "https://static.wikia.nocookie.net/bleach/images/3/37/Episode364Title.png/revision/latest/scale-to-width-down/480?cb=20480313133332&path-prefix=en",
+          "title": "Desperate Struggle!? Byakuya's Troubled Memories",
+          "originalAirdate": "March 13, 2012",
+          "englishAirdate": "October 19, 2014",
+          "type": "Normal",
+          "id": 365
+        },
+        {
+          "episode": 365,
+          "card": "https://static.wikia.nocookie.net/bleach/images/1/19/Episode365Title.png/revision/latest/scale-to-width-down/480?cb=20480320222320&path-prefix=en",
+          "title": "Ichigo vs. Ginjō! The Secret of the Substitute Badge",
+          "originalAirdate": "March 20, 2012",
+          "englishAirdate": "October 26, 2014",
+          "type": "Normal",
+          "id": 366
+        },
+        {
+          "episode": 366,
+          "card": "https://static.wikia.nocookie.net/bleach/images/6/66/Episode366Title.png/revision/latest/scale-to-width-down/480?cb=20480327210750&path-prefix=en",
+          "title": "Changing History, Unchanging Heart",
+          "originalAirdate": "March 27, 2012",
+          "englishAirdate": "November 2, 2014",
+          "type": "Normal",
+          "id": 367
+        }
+      ],
+      "id": 13
+    },
+    {
+      "title": "Naruto",
+      "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vauCEnR7CiyBDzRCeElKkCaXIYu.jpg",
+      "overview": "In another world, ninja are the ultimate power, and in the Village Hidden in the Leaves live the stealthiest ninja in the land. Twelve years earlier, the fearsome Nine-Tailed Fox terrorized the village and claimed many lives before it was subdued and its spirit sealed within the body of a baby boy. That boy, Naruto Uzumaki, has grown up to become a ninja-in-training who's more interested in pranks than in studying ninjutsu.. but Naruto is determined to become the greatest ninja ever!",
+      "year": 2002,
+      "seasons": 1,
+      "idTmdb": 46260,
+      "id": 14
+    },
+    {
+      "title": "Dragon Ball Z",
+      "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dBsDWUcdfbuZwglgyeeQ9ChRoS4.jpg",
+      "overview": "After learning that he is from another planet, a warrior named Goku and his friends are prompted to defend it from an onslaught of extraterrestrial enemies.",
+      "year": 1989,
+      "seasons": 1,
+      "idTmdb": 12971,
+      "id": 15
+    },
+    {
+      "title": "Dragon Ball",
+      "img": "https://m.media-amazon.com/images/M/MV5BMjRlYTYyMDUtOGY5MC00MmFiLTljOTMtM2QzOWZjMWViN2FiL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+      "overview": "",
+      "year": 1986,
+      "seasons": 1,
+      "idTmdb": 158858,
+      "id": 16
+    }
+  ]
+}
